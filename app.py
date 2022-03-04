@@ -13,7 +13,12 @@ DATA = GAMES.merge(TV,on='TeamIDsDate')
 
 app = Dash(__name__)
 
-app.layout = html.Div(children=[])
+app.layout = html.Div(children=[
+    
+    #Dropdown
+    dcc.Dropdown(['New York City', 'Montréal', 'San Francisco'], 'Montréal'),
+    
+])
 
 if __name__ == '__main__':
     app.run_server(debug=True)
