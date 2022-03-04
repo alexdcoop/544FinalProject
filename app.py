@@ -1,3 +1,4 @@
+from turtle import home
 from dash import Dash, dcc, html, Input, Output
 import dash
 import plotly.express as px
@@ -10,16 +11,23 @@ from dash.dependencies import Input, Output
 import pandas as pd
 
 GAMES = pd.read_csv('games_flat_xml_2012-2018.csv')
-TV = pd.read_csv('TV_Ratings_onesheet.csv')
+gcolumnsWeWant = ['homename','visname','date','attend']
+GAMES = GAMES[gcolumnsWeWant]
 
-#Join 
-DATA = GAMES.merge(TV,on='TeamIDsDate')
+TV = pd.read_csv('TV_Ratings_onesheet.csv')
+tvcolumnsWeWant = ['Home Team', 'Visitor Team', 'VIEWERS', 'Network']
+TV = TV[tvcolumnsWeWant]
+
+
+#Define Home team Labels for our dropdown
+gamesUHomeDict = [{'label' : tn, 'value': tn} for tn in np.unique(GAMES.homename)]
+TVUHomeDict = [{'label' : tn, 'value': tn} for tn in np.unique(TV['Home Team'])]
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],meta_tags=[
                   {"name": "viewport", "content": "width=device-width, initial-scale=1"}
                   ])
-
+app.config.suppress_callback_exceptions=True
 
 ### creating the side bar menu
 SIDEBAR_STYLE = {
@@ -86,23 +94,59 @@ def render_page_content(pathname):
     if pathname == "/":
         ######## Place the content for stadium attendance here
         return [
-                html.H1('Sales Count',
-                        style={'textAlign':'center'}),
-                dcc.Graph(id='bargraph',
-                         figure=px.bar(retail, barmode='group', x='Company',
-                         y='Sales'))
-                ]
+            #Home team dropdown
+            dcc.Dropdown(id='homeTeam', placeholder="Select Home Team" ,options=gamesUHomeDict),
+            html.P('STADIUM'),
+            #TABLE
+            html.Table(id='Table',children = [],className='table table-striped')]
+                
         #### Place content for tv viewership here
     elif pathname == "/tv":
         return [
-                html.H1('Store Count',
-                        style={'textAlign':'center'}),
-                dcc.Graph(id='bargraph',
-                         figure=px.bar(retail, barmode='group', x='Company',
-                         y='Stores'))
-                ]
+            #Home team
+            dcc.Dropdown(id='homeTeam', placeholder="Select Home Team" ,options=TVUHomeDict),
+            html.P('TV'),
+            #TABLE
+            html.Table(id='Table',children = [],className='table table-striped')]
 
+#THIS IS THE CALLBACK FOR TABLE
+@app.callback(
+    Output("Table", "children"),
+    Input("homeTeam", 'value'),
+    [Input("url", "pathname")]
+)
+def update_table(value,pathname):
+    #create the table
+    tableChildren = create_table(value, pathname)
+    return tableChildren
 
+### creating the table
+def create_table(homeTeam, pathname):
+    if pathname == '/':
+        if homeTeam is not None:
+            DATA = GAMES[GAMES.homename == homeTeam]
+        else:
+            DATA = GAMES
+    elif pathname == '/tv':
+        if homeTeam is not None:
+            DATA = TV[TV['Home Team'] == homeTeam]
+        else:
+            DATA = TV
+    else:
+        print('ERROR CREATING TABLE')
+        
+    tableChildren = [
+            html.Thead([
+                html.Tr([html.Th(col) for col in DATA.columns])
+                ]),
+            html.Tbody([
+                html.Tr([
+                    html.Td(DATA.iloc[i][col]) for col in DATA.columns
+                ]) for i in range(len(DATA))
+            ])
+            ]
+    
+    return tableChildren
 
 if __name__ == '__main__':
     app.run_server(debug=True)
