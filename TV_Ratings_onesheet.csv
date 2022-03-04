@@ -1,0 +1,857 @@
+Date,GAME,GameID,Visitor Team,Home Team,VisTeamID,HomeTeamID,RATING,VIEWERS,Network,TeamIDsDate
+9/22/2018,Texas A&M @ Alabama,Texas A&M-Alabama09-22-2018,Texas A&M,Alabama,TAMU,UA,3.4,5710000,CBS,TAMU@UA09-22-2018
+11/10/2018,Mississippi State @ Alabama,Mississippi State-Alabama11-10-2018,Mississippi State,Alabama,MS,UA,3.3,5460000,CBS,MS@UA11-10-2018
+11/24/2018,Auburn @ Alabama,Auburn-Alabama11-24-2018,Auburn,Alabama,AU,UA,5.1,9130000,CBS,AU@UA11-24-2018
+10/21/2017,Tennessee @ Alabama,Tennessee-Alabama10-21-2017,Tennessee,Alabama,TENN,UA,2.8,4490000,CBS,TENN@UA10-21-2017
+11/4/2017,LSU @ Alabama,LSU-Alabama11-04-2017,LSU,Alabama,LSU,UA,3.9,6800000,CBS,LSU@UA11-04-2017
+10/22/2016,Texas &M @ Alabama,Texas A&M-Alabama10-22-2016,Texas A&M,Alabama,TAMU,UA,5,8500000,CBS,TAMU@UA10-22-2016
+11/26/2016,Auburn @ Alabama,Auburn-Alabama11-26-2016,Auburn,Alabama,AU,UA,4.5,8200000,CBS,AU@UA11-26-2016
+10/24/2015,Tennessee @ Alabama,Tennessee-Alabama10-24-2015,Tennessee,Alabama,TENN,UA,4.3,6997000,CBS,TENN@UA10-24-2015
+11/7/2015,LSU @ Alabama,LSU-Alabama11-07-2015,LSU,Alabama,LSU,UA,6.5,11119000,CBS,LSU@UA11-07-2015
+9/20/2014,Florida @ Alabama,Florida-Alabama09-20-2014,Florida,Alabama,UF,UA,5.1,7949000,CBS,UF@UA09-20-2014
+10/18/2014,Texas A&M @ Alabama,Texas A&M-Alabama10-18-2014,Texas A&M,Alabama,TAMU,UA,2.8,4204000,CBS,TAMU@UA10-18-2014
+11/15/2014,Miss State @ Alabama,Mississippi State-Alabama11-15-2014,Mississippi State,Alabama,MS,UA,6.4,10268000,CBS,MS@UA11-15-2014
+10/26/2013,UT @ ALA,Tennessee-Alabama10-26-2013,Tennessee,Alabama,TENN,UA,2.6,4028000,CBS,TENN@UA10-26-2013
+11/9/2013,LSU @ ALA,LSU-Alabama11-09-2013,LSU,Alabama,LSU,UA,6.9,11903000,CBS,LSU@UA11-09-2013
+11/10/2012,TAMU @ ALA,Texas A&M-Alabama11-10-2012,Texas A&M,Alabama,TAMU,UA,6.1,9570000,CBS,TAMU@UA11-10-2012
+11/24/2012,AUB @ ALA,Auburn-Alabama11-24-2012,Auburn,Alabama,AU,UA,2.4,3890000,CBS,AU@UA11-24-2012
+9/24/2011,ARK @ ALA,Arkansas-Alabama09-24-2011,Arkansas,Alabama,AR,UA,2.9,4730000,CBS,AR@UA09-24-2011
+11/5/2011,LSU @ ALA,LSU-Alabama11-05-2011,LSU,Alabama,LSU,UA,11.5,20010000,CBS,LSU@UA11-05-2011
+10/2/2010,FLA @ ALA,Florida-Alabama10-02-2010,Florida,Alabama,UF,UA,5,8595000,CBS,UF@UA10-02-2010
+11/26/2010,AU @ AL,Auburn-Alabama11-26-2010,Auburn,Alabama,AU,UA,7.3,12520000,CBS,AU@UA11-26-2010
+9/26/2009,ARK @ ALA,Arkansas-Alabama09-26-2009,Arkansas,Alabama,AR,UA,2.4,N/A,CBS,AR@UA09-26-2009
+10/24/2009,UT @ ALA,Tennessee-Alabama10-24-2009,Tennessee,Alabama,TENN,UA,3.6,N/A,CBS,TENN@UA10-24-2009
+11/7/2009,LSU @ ALA,LSU-Alabama11-07-2009,LSU,Alabama,LSU,UA,4.3,N/A,CBS,LSU@UA11-07-2009
+11/27/2009,AU @ ALA,Auburn-Alabama11-27-2009,Auburn,Alabama,AU,UA,4.9,N/A,CBS,AU@UA11-27-2009
+10/4/2008,UK @ ALA,Kentucky-Alabama10-04-2008,Kentucky,Alabama,UK,UA,2.3,N/A,CBS,UK@UA10-04-2008
+11/29/2008,AUB @ ALA,Auburn-Alabama11-29-2008,Auburn,Alabama,AU,UA,4,N/A,CBS,AU@UA11-29-2008
+12/6/2008,FLA vs ALA,Florida-Alabama12-06-2008,Florida,Alabama,UF,UA,9.3,N/A,CBS,UF@UA12-06-2008
+9/29/2007,FSU vs. ALA,Florida State-Alabama09-29-2007,Florida State,Alabama,FSU,UA,2.5,N/A,CBS,FSU@UA09-29-2007
+11/3/2007,LSU @ ALA,LSU-Alabama11-03-2007,LSU,Alabama,LSU,UA,4,N/A,CBS,LSU@UA11-03-2007
+11/18/2006,AU @ ALA,Auburn-Alabama11-18-2006,Auburn,Alabama,AU,UA,1.9,N/A,CBS,AU@UA11-18-2006
+10/1/2005,UF @ ALA,Florida-Alabama10-01-2005,Florida,Alabama,UF,UA,3.1,N/A,CBS,UF@UA10-01-2005
+10/22/2005,UT @ ALA,Tennessee-Alabama10-22-2005,Tennessee,Alabama,TENN,UA,3.6,N/A,CBS,TENN@UA10-22-2005
+11/12/2005,LSU @ ALA,LSU-Alabama11-12-2005,LSU,Alabama,LSU,UA,4.4,N/A,CBS,LSU@UA11-12-2005
+11/20/2004,Auburn @ Alabama,Auburn-Alabama11-20-2004,Auburn,Alabama,AU,UA,4.4,N/A,CBS,AU@UA11-20-2004
+9/27/2003,Arkansas @ Alabama,Arkansas-Alabama09-27-2003,Arkansas,Alabama,AR,UA,4.1,N/A,CBS,AR@UA09-27-2003
+10/25/2003,Tennessee @ Alabama,Tennessee-Alabama10-25-2003,Tennessee,Alabama,TENN,UA,3.7,N/A,CBS,TENN@UA10-25-2003
+10/5/2002,Georgia @ Alabama,Georgia-Alabama10-05-2002,Georgia,Alabama,UGA,UA,2.6,N/A,CBS,UGA@UA10-05-2002
+11/23/2002,Auburn @ Alabama,Auburn-Alabama11-23-2002,Auburn,Alabama,AU,UA,2.9,N/A,CBS,AU@UA11-23-2002
+9/22/2001,Arkansas @ Alabama,Arkansas-Alabama09-22-2001,Arkansas,Alabama,AR,UA,2,N/A,CBS,AR@UA09-22-2001
+10/20/2001,Tennessee @ Alabama,Tennessee-Alabama10-20-2001,Tennessee,Alabama,TENN,UA,2.2,N/A,CBS,TENN@UA10-20-2001
+11/3/2001,LSU @ Alabama,LSU-Alabama11-03-2001,LSU,Alabama,LSU,UA,2,N/A,CBS,LSU@UA11-03-2001
+10/13/2018,Missouri @ Alabama,Missouri-Alabama10-13-2018,Missouri,Alabama,MIZZU,UA,N/A,3757737,ESPN,MIZZU@UA10-13-2018
+9/1/2017,Louisville @ Alabama [ABC],Louisville-Alabama09-01-2017,Louisville,Alabama,LOU,UA,N/A,4589488,ABC,LOU@UA09-01-2017
+10/14/2017,Arkansas @ Alabama,Arkansas-Alabama10-14-2017,Arkansas,Alabama,AR,UA,N/A,3866420,ESPN,AR@UA10-14-2017
+9/2/2017,Florida State @ Alabama (ABC),Florida State-Alabama09-02-2017,Florida State,Alabama,FSU,UA,N/A,12556761,ABC,FSU@UA09-02-2017
+10/1/2016,Kentucky @ Alabama,Kentucky-Alabama10-01-2016,Kentucky,Alabama,UK,UA,1.9,3190025,ESPN,UK@UA10-01-2016
+9/30/2017,Ole Miss @ Alabama,Mississippi (Ole Miss)-Alabama09-30-2017,Mississippi (Ole Miss),Alabama,OM,UA,N/A,3028044,ESPN,OM@UA09-30-2017
+11/12/2016,Mississippi State @ Alabama,Mississippi State-Alabama11-12-2016,Mississippi State,Alabama,MS,UA,2,3257079,ESPN,MS@UA11-12-2016
+9/3/2016,USC @ Alabama (ABC),South Carolina-Alabama09-03-2016,South Carolina,Alabama,SCAR,UA,4.6,7943689,ABC,SCAR@UA09-03-2016
+10/10/2015,Arkansas @ Alabama,Arkansas-Alabama10-10-2015,Arkansas,Alabama,AR,UA,2.9,4834748,ESPN,AR@UA10-10-2015
+9/5/2015,Wisconsin @ Alabama ( ABC),Wisconsin-Alabama09-05-2015,Wisconsin,Alabama,WIS,UA,4.3,7967233,ABC,WIS@UA09-05-2015
+12/7/2014,Auburn @ Alabama,Auburn-Alabama12-07-2014,Auburn,Alabama,AU,UA,7.4,13529483,ESPN,AU@UA12-07-2014
+10/19/2013,ARK @ ALA,Arkansas-Alabama10-19-2013,Arkansas,Alabama,AR,UA,1.5,2330685,ESPN,AR@UA10-19-2013
+9/19/2015,Ole Miss @ Alabama,Mississippi (Ole Miss)-Alabama09-19-2015,Mississippi (Ole Miss),Alabama,OM,UA,4.6,7604858,ESPN,OM@UA09-19-2015
+10/27/2012,MSU @ ALA,Mississippi State-Alabama10-27-2012,Mississippi State,Alabama,MS,UA,2.4,3661213,ESPN,MS@UA10-27-2012
+9/1/2012,Michigan vs. ALA (ABC),Michigan-Alabama09-01-2012,Michigan,Alabama,MICH,UA,4.8,7917994,ABC,MICH@UA09-01-2012
+10/17/2009,USC @ ALA,South Carolina-Alabama10-17-2009,South Carolina,Alabama,SCAR,UA,3.3,N/A,ESPN,SCAR@UA10-17-2009
+9/28/2013,UM @ ALA,Mississippi (Ole Miss)-Alabama09-28-2013,Mississippi (Ole Miss),Alabama,OM,UA,2.3,4021712,ESPN,OM@UA09-28-2013
+11/15/2008,MSU @ ALA,Mississippi State-Alabama11-15-2008,Mississippi State,Alabama,MS,UA,3.32,N/A,ESPN,MS@UA11-15-2008
+9/15/2007,ARK @ ALA,Arkansas-Alabama09-15-2007,Arkansas,Alabama,AR,UA,2.73,N/A,ESPN,AR@UA09-15-2007
+9/22/2007,UGA @ ALA,Georgia-Alabama09-22-2007,Georgia,Alabama,UGA,UA,3.32,N/A,ESPN,UGA@UA09-22-2007
+11/24/2007,AUB @ ALA,Auburn-Alabama11-24-2007,Auburn,Alabama,AU,UA,2.16,N/A,ESPN,AU@UA11-24-2007
+9/29/2012,UM @ ALA,Mississippi (Ole Miss)-Alabama09-29-2012,Mississippi (Ole Miss),Alabama,OM,UA,2.5,3496323,ESPN,OM@UA09-29-2012
+9/6/2003,Oklahoma @ Alabama,Oklahoma-Alabama09-06-2003,Oklahoma,Alabama,OU,UA,3.16,N/A,ESPN,OU@UA09-06-2003
+9/13/2003,Kentucky @ Alabama,Kentucky-Alabama09-13-2003,Kentucky,Alabama,UK,UA,1.84,N/A,ESPN,UK@UA09-13-2003
+11/15/2003,LSU @ Alabama,LSU-Alabama11-15-2003,LSU,Alabama,LSU,UA,2.23,N/A,ESPN,LSU@UA11-15-2003
+9/1/2001,UCLA @ Alabama,UCLA-Alabama09-01-2001,UCLA,Alabama,UCLA,UA,2.57,N/A,ESPN,UCLA@UA09-01-2001
+9/8/2018,Arkansas State @ Alabama,Arkansas State-Alabama09-08-2018,Arkansas State,Alabama,ARSTU,UA,N/A,1662808,ESPN2,ARSTU@UA09-08-2018
+10/16/2010,UM @ ALA,Mississippi (Ole Miss)-Alabama10-16-2010,Mississippi (Ole Miss),Alabama,OM,UA,2.1,3143497,ESPN2,OM@UA10-16-2010
+9/9/2017,Fresno State @ Alabama,Fresno State-Alabama09-09-2017,Fresno State,Alabama,FRESNO,UA,N/A,2136259,ESPN2,FRESNO@UA09-09-2017
+9/16/2017,Colorado State @ Alabama,Colorado State-Alabama09-16-2017,Colorado State,Alabama,COSTU,UA,N/A,1653298,ESPN2,COSTU@UA09-16-2017
+9/10/2016,Western Kentucky @ Alabama,Western Kentucky-Alabama09-10-2016,Western Kentucky,Alabama,WKU,UA,1.4,2467432,ESPN2,WKU@UA09-10-2016
+11/19/2016,Chattanooga @ Alabama,Chattanooga-Alabama11-19-2016,Chattanooga,Alabama,UTC,UA,1.5,1713877,ESPN2,UTC@UA11-19-2016
+10/18/2008,UM @ ALA,Mississippi (Ole Miss)-Alabama10-18-2008,Mississippi (Ole Miss),Alabama,OM,UA,2,N/A,CBS,OM@UA10-18-2008
+8/30/2014,West VA vs. Alabama,West Virginia-Alabama08-30-2014,West Virginia,Alabama,WVU,UA,4,6404692,ESPN2,WVU@UA08-30-2014
+10/14/2006,UM @ AL,Mississippi (Ole Miss)-Alabama10-14-2006,Mississippi (Ole Miss),Alabama,OM,UA,2.3,N/A,CBS,OM@UA10-14-2006
+9/21/2013,Colorado St @ ALA,Colorado State-Alabama09-21-2013,Colorado State,Alabama,COSTU,UA,1.6,2778750,ESPN2,COSTU@UA09-21-2013
+9/11/2004,Ole Miss @ Alabama,Mississippi (Ole Miss)-Alabama09-11-2004,Mississippi (Ole Miss),Alabama,OM,UA,1.01,0.81,ESPN2,OM@UA09-11-2004
+10/22/2011,UT @ ALA,Tennessee-Alabama10-22-2011,Tennessee,Alabama,TENN,UA,2.6,3998509,ESPN2,TENN@UA10-22-2011
+11/13/2010,MSU @ ALA,Mississippi State-Alabama11-13-2010,Mississippi State,Alabama,MS,UA,1.42,2343251,ESPN2,MS@UA11-13-2010
+10/19/2002,Ole Miss @ Alabama,Mississippi (Ole Miss)-Alabama10-19-2002,Mississippi (Ole Miss),Alabama,OM,UA,2.2,N/A,CBS,OM@UA10-19-2002
+10/2/2004,S. Carolina @ Alabama,South Carolina-Alabama10-02-2004,South Carolina,Alabama,SCAR,UA,1.35,1.45,ESPN2,SCAR@UA10-02-2004
+11/6/2004,Miss. State @ Alabama,Mississippi State-Alabama11-06-2004,Mississippi State,Alabama,MS,UA,1.06,0.84,ESPN2,MS@UA11-06-2004
+8/30/2003,S. Florida @ Alabama,South Florida-Alabama08-30-2003,South Florida,Alabama,USF,UA,1.45,N/A,ESPN,USF@UA08-30-2003
+9/13/2014,SMU @ Alabama,Southern  Methodist-Alabama09-13-2014,Southern  Methodist,Alabama,SMU,UA,1,1783662,ESPN2,SMU@UA09-13-2014
+9/10/2005,USM @ ALA.,Southern Mississippi-Alabama09-10-2005,Southern Mississippi,Alabama,USM,UA,0.76,0.85,ESPN2,USM@UA09-10-2005
+9/21/2002,So. Miss. @ Alabama,Southern Mississippi-Alabama09-21-2002,Southern Mississippi,Alabama,USM,UA,1.02,1.09,ESPN2,USM@UA09-21-2002
+11/29/2001,So. Miss @ Alabama,Southern Mississippi-Alabama11-29-2001,Southern Mississippi,Alabama,USM,UA,1.04,0.82,ESPN2,USM@UA11-29-2001
+10/8/2011,VU @ ALA,Vanderbilt-Alabama10-08-2011,Vanderbilt,Alabama,VANDY,UA,1,1108526,ESPNU,VANDY@UA10-08-2011
+9/20/2008,UGA @ AZ State (ABC),Georgia-Arizona State09-20-2008,Georgia,Arizona State,UGA,AZSTU,2.67,N/A,ABC,UGA@AZSTU09-20-2008
+9/9/2017,TCU @ Arkansas,TCU-Arkansas09-09-2017,TCU,Arkansas,TCU,AR,1.5,2350000,CBS,TCU@AR09-09-2017
+11/18/2017,Mississippi State @ Arkansas,Mississippi State-Arkansas11-18-2017,Mississippi State,Arkansas,MS,AR,1.1,1690000,CBS,MS@AR11-18-2017
+11/24/2017,Missouri @ Arkansas,Missouri-Arkansas11-24-2017,Missouri,Arkansas,MIZZU,AR,1.6,2510000,CBS,MIZZU@AR11-24-2017
+11/5/2016,Florida @ Arkansas,Florida-Arkansas11-05-2016,Florida,Arkansas,UF,AR,2.6,4300000,CBS,UF@AR11-05-2016
+11/27/2015,Missouri @ Arkansas,Missouri-Arkansas11-27-2015,Missouri,Arkansas,MIZZU,AR,1.6,2390000,CBS,MIZZU@AR11-27-2015
+9/15/2012,ALA @ ARK,Alabama-Arkansas09-15-2012,Alabama,Arkansas,UA,AR,3.2,4960000,CBS,UA@AR09-15-2012
+11/23/2012,LSU @ ARK,LSU-Arkansas11-23-2012,LSU,Arkansas,LSU,AR,2.8,4220000,CBS,LSU@AR11-23-2012
+11/19/2011,MSU @ ARK,Mississippi State-Arkansas11-19-2011,Mississippi State,Arkansas,MS,AR,1.9,3060000,CBS,MS@AR11-19-2011
+9/25/2010,ALA @ ARK,Alabama-Arkansas09-25-2010,Alabama,Arkansas,UA,AR,5.2,8138000,CBS,UA@AR09-25-2010
+11/27/2010,LSU @ ARK,LSU-Arkansas11-27-2010,LSU,Arkansas,LSU,AR,4.3,7300000,CBS,LSU@AR11-27-2010
+11/28/2008,LSU @ ARK,LSU-Arkansas11-28-2008,LSU,Arkansas,LSU,AR,2.6,N/A,CBS,LSU@AR11-28-2008
+9/23/2006,AL @ AR,Alabama-Arkansas09-23-2006,Alabama,Arkansas,UA,AR,2.2,N/A,CBS,UA@AR09-23-2006
+11/24/2006,LSU @ ARK,LSU-Arkansas11-24-2006,LSU,Arkansas,LSU,AR,3.3,N/A,CBS,LSU@AR11-24-2006
+12/2/2006,UF vs. ARK,Florida-Arkansas12-02-2006,Florida,Arkansas,UF,AR,4.5,N/A,CBS,UF@AR12-02-2006
+9/25/2004,Alabama @ Arkansas,Alabama-Arkansas09-25-2004,Alabama,Arkansas,UA,AR,2.5,N/A,CBS,UA@AR09-25-2004
+11/26/2004,LSU @ Arkansas,LSU-Arkansas11-26-2004,LSU,Arkansas,LSU,AR,2.3,N/A,CBS,LSU@AR11-26-2004
+10/18/2003,Florida @ Arkansas,Florida-Arkansas10-18-2003,Florida,Arkansas,UF,AR,2.7,N/A,CBS,UF@AR10-18-2003
+9/8/2012,LA Monroe @ ARK,Louisiana-Monroe-Arkansas09-08-2012,Louisiana-Monroe,Arkansas,ULM,AR,0.6,666710,ESPNU,ULM@AR09-08-2012
+11/29/2002,LSU @ Arkansas,LSU-Arkansas11-29-2002,LSU,Arkansas,LSU,AR,2.3,N/A,CBS,LSU@AR11-29-2002
+12/7/2002,Georgia vs. Arkansas,LSU-Arkansas12-07-2002,LSU,Arkansas,LSU,AR,3.2,N/A,CBS,LSU@AR12-07-2002
+9/29/2018,Texas A&M vs. Arkansas,Texas A&M-Arkansas09-29-2018,Texas A&M,Arkansas,TAMU,AR,N/A,1595628,ESPN,TAMU@AR09-29-2018
+10/6/2018,Alabama @ Arkansas,Alabama-Arkansas10-06-2018,Alabama,Arkansas,UA,AR,N/A,2495328,ESPN,UA@AR10-06-2018
+9/23/2017,Texas A&M vs. Arkansas (Arlington),Texas A&M-Arkansas09-23-2017,Texas A&M,Arkansas,TAMU,AR,N/A,2708179,ESPN,TAMU@AR09-23-2017
+10/8/2016,Alabama @ Arkansas,Alabama-Arkansas10-08-2016,Alabama,Arkansas,UA,AR,2.6,4444184,ESPN,UA@AR10-08-2016
+11/12/2016,LSU @ Arkansas,LSU-Arkansas11-12-2016,LSU,Arkansas,LSU,AR,1.4,1636175,ESPN,LSU@AR11-12-2016
+9/26/2015,Texas A&M @ Arkansas,Texas A&M-Arkansas09-26-2015,Texas A&M,Arkansas,TAMU,AR,1.9,3112392,ESPN,TAMU@AR09-26-2015
+10/15/2016,Ole Miss @ Arkansas,Mississippi (Ole Miss)-Arkansas10-15-2016,Mississippi (Ole Miss),Arkansas,OM,AR,1.5,2539709,ESPN,OM@AR10-15-2016
+11/21/2015,Mississippi St @ Arkansas,Mississippi State-Arkansas11-21-2015,Mississippi State,Arkansas,MS,AR,1.3,2081958,ESPN,MS@AR11-21-2015
+10/11/2014,Alabama @ Arkansas,Alabama-Arkansas10-11-2014,Alabama,Arkansas,UA,AR,2.2,3649881,ESPN,UA@AR10-11-2014
+11/22/2014,Ole Miss @ Arkansas,Mississippi (Ole Miss)-Arkansas11-22-2014,Mississippi (Ole Miss),Arkansas,OM,AR,2.1,3339000,CBS,OM@AR11-22-2014
+10/1/2011,TAMU @ ARK,Texas A&M-Arkansas10-01-2011,Texas A&M,Arkansas,TAMU,AR,2.6,3311042,ESPN,TAMU@AR10-01-2011
+10/8/2011,AUB @ ARK,Auburn-Arkansas10-08-2011,Auburn,Arkansas,AU,AR,2.3,3181400,ESPN,AU@AR10-08-2011
+11/5/2011,USC @ ARK,South Carolina-Arkansas11-05-2011,South Carolina,Arkansas,SCAR,AR,1.7,2331612,ESPN,SCAR@AR11-05-2011
+9/19/2009,UGA @ ARK,Georgia-Arkansas09-19-2009,Georgia,Arkansas,UGA,AR,2.88,N/A,ESPN,UGA@AR09-19-2009
+10/10/2009,AUB @ ARK,Auburn-Arkansas10-10-2009,Auburn,Arkansas,AU,AR,2.36,N/A,ESPN,AU@AR10-10-2009
+10/13/2007,AUB @ ARK,Auburn-Arkansas10-13-2007,Auburn,Arkansas,AU,AR,1.96,N/A,ESPN,AU@AR10-13-2007
+9/11/2004,Texas @ Arkansas,Texas-Arkansas09-11-2004,Texas,Arkansas,UTX,AR,3.06,N/A,ESPN,UTX@AR09-11-2004
+11/6/2003,S. Carolina @ Arkansas,South Carolina-Arkansas11-06-2003,South Carolina,Arkansas,SCAR,AR,2.52,N/A,ESPN,SCAR@AR11-06-2003
+9/28/2002,Alabama @ Arkansas,Alabama-Arkansas09-28-2002,Alabama,Arkansas,UA,AR,2.34,N/A,ESPN,UA@AR09-28-2002
+8/30/2001,UNLV @ Arkansas,UNLV-Arkansas08-30-2001,UNLV,Arkansas,UNLV,AR,1.82,N/A,ESPN,UNLV@AR08-30-2001
+9/19/2015,Texas Tech @ Arkansas,Texas Tech-Arkansas09-19-2015,Texas Tech,Arkansas,TTU,AR,1,1914404,ESPN2,TTU@AR09-19-2015
+11/15/2014,LSU @ Arkansas,LSU-Arkansas11-15-2014,LSU,Arkansas,LSU,AR,1.1,1844887,ESPN2,LSU@AR11-15-2014
+9/28/2013,TAMU @ ARK,Texas A&M-Arkansas09-28-2013,Texas A&M,Arkansas,TAMU,AR,1.7,2761399,ESPN2,TAMU@AR09-28-2013
+11/2/2013,AUB @ ARK,Auburn-Arkansas11-02-2013,Auburn,Arkansas,AU,AR,1,1692285,ESPN2,AU@AR11-02-2013
+11/12/2011,UT @ ARK,Tennessee-Arkansas11-12-2011,Tennessee,Arkansas,TENN,AR,1.3,1987591,ESPN2,TENN@AR11-12-2011
+10/3/2009,Tex A&M vs. ARK,Texas A&M-Arkansas10-03-2009,Texas A&M,Arkansas,TAMU,AR,0.97,1.06,ESPN2,TAMU@AR10-03-2009
+9/22/2007,UK @ ARK,Kentucky-Arkansas09-22-2007,Kentucky,Arkansas,UK,AR,1.61,1.25,ESPN2,UK@AR09-22-2007
+11/3/2007,USC @ ARK,South Carolina-Arkansas11-03-2007,South Carolina,Arkansas,SCAR,AR,0.96,0.76,ESPN2,SCAR@AR11-03-2007
+11/11/2006,UT @ ARK,Tennessee-Arkansas11-11-2006,Tennessee,Arkansas,TENN,AR,2.06,1.15,ESPN2,TENN@AR11-11-2006
+10/23/2004,Georgia @ Arkansas,Georgia-Arkansas10-23-2004,Georgia,Arkansas,UGA,AR,1.44,1.07,ESPN2,UGA@AR10-23-2004
+9/8/2001,Tennessee @ Arkansas,Tennessee-Arkansas09-08-2001,Tennessee,Arkansas,TENN,AR,1.41,0.95,ESPN2,TENN@AR09-08-2001
+9/20/2014,N. Illinois @ Arkansas,Northern Illinois-Arkansas09-20-2014,Northern Illinois,Arkansas,NIU,AR,0.3,509945,ESPNU,NIU@AR09-20-2014
+9/2/2006,So. Cal @ ARK,Southern California-Arkansas09-02-2006,Southern California,Arkansas,USC,AR,2.02,N/A,ESPN,USC@AR09-02-2006
+9/22/2012,Rutgers @ ARK,Rutgers-Arkansas09-22-2012,Rutgers,Arkansas,RUTG,AR,0.5,541937,ESPNU,RUTG@AR09-22-2012
+9/5/2015,UTEP @ Arkansas,Texas El Paso-Arkansas09-05-2015,Texas El Paso,Arkansas,UTXEP,AR,0.3,417451,ESPNU,UTXEP@AR09-05-2015
+9/15/2011,N. Mexico @ ARK,New Mexico-Arkansas09-15-2011,New Mexico,Arkansas,NM,AR,0.4,579936,ESPNU,NM@AR09-15-2011
+9/15/2018,LSU @ Auburn,LSU-Auburn09-15-2018,LSU,Auburn,LSU,AU,3.5,5990000,CBS,LSU@AU09-15-2018
+11/11/2017,Georgia @ Auburn,Georgia-Auburn11-11-2017,Georgia,Auburn,UGA,AU,4.4,7470000,CBS,UGA@AU11-11-2017
+11/25/2017,Alabama @ Auburn,Alabama-Auburn11-25-2017,Alabama,Auburn,UA,AU,7.6,13720000,CBS,UA@AU11-25-2017
+12/2/2017,Georgia vs. Auburn,Georgia-Auburn12-02-2017,Georgia,Auburn,UGA,AU,8,13470000,CBS,UGA@AU12-02-2017
+9/5/2015,L'ville @ Auburn,Louisville-Auburn09-05-2015,Louisville,Auburn,LOU,AU,2.4,4027000,CBS,LOU@AU09-05-2015
+11/14/2015,Georgia @ Auburn,Georgia-Auburn11-14-2015,Georgia,Auburn,UGA,AU,1.9,2955000,CBS,UGA@AU11-14-2015
+11/27/2015,Alabama @ Auburn,Alabama-Auburn11-27-2015,Alabama,Auburn,UA,AU,5.3,9299000,CBS,UA@AU11-27-2015
+11/8/2014,Texas A&M @ Auburn,Texas A&M-Auburn11-08-2014,Texas A&M,Auburn,TAMU,AU,4.4,7206000,CBS,TAMU@AU11-08-2014
+11/16/2013,UGA @ AUB,Georgia-Auburn11-16-2013,Georgia,Auburn,UGA,AU,3.4,5319000,CBS,UGA@AU11-16-2013
+11/30/2013,ALA @ AUB,Alabama-Auburn11-30-2013,Alabama,Auburn,UA,AU,8.2,13779000,CBS,UA@AU11-30-2013
+12/7/2013,MZ vs. AUB,Missouri-Auburn12-07-2013,Missouri,Auburn,MIZZU,AU,8.6,17000000,CBS,MIZZU@AU12-07-2013
+11/25/2011,ALA @ AUB,Alabama-Auburn11-25-2011,Alabama,Auburn,UA,AU,4.5,7510000,CBS,UA@AU11-25-2011
+10/16/2010,ARK @ AUB,Arkansas-Auburn10-16-2010,Arkansas,Auburn,AR,AU,2.9,4520000,CBS,AR@AU10-16-2010
+10/23/2010,LSU @ AUB,LSU-Auburn10-23-2010,LSU,Auburn,LSU,AU,4.5,7340000,CBS,LSU@AU10-23-2010
+11/13/2010,UGA @ AUB,Georgia-Auburn11-13-2010,Georgia,Auburn,UGA,AU,5,8260000,CBS,UGA@AU11-13-2010
+12/4/2010,USC vs. AUB,Georgia-Auburn12-04-2010,Georgia,Auburn,UGA,AU,6,10090000,CBS,UGA@AU12-04-2010
+9/27/2008,UT @ AUB,Tennessee-Auburn09-27-2008,Tennessee,Auburn,TENN,AU,2.4,N/A,CBS,TENN@AU09-27-2008
+9/16/2006,LSU @ AU,LSU-Auburn09-16-2006,LSU,Auburn,LSU,AU,2.9,N/A,CBS,LSU@AU09-16-2006
+10/7/2006,ARK @ AU,Arkansas-Auburn10-07-2006,Arkansas,Auburn,AR,AU,2.8,N/A,CBS,AR@AU10-07-2006
+11/18/2017,Louisiana-Monroe @ Auburn,Louisiana-Monroe-Auburn11-18-2017,Louisiana-Monroe,Auburn,ULM,AU,N/A,526059,ESPN2,ULM@AU11-18-2017
+11/19/2005,ALA @ AU,Alabama-Auburn11-19-2005,Alabama,Auburn,UA,AU,3.3,N/A,CBS,UA@AU11-19-2005
+9/18/2004,LSU @ Auburn,LSU-Auburn09-18-2004,LSU,Auburn,LSU,AU,3,N/A,CBS,LSU@AU09-18-2004
+10/16/2004,Arkansas @ Auburn,Arkansas-Auburn10-16-2004,Arkansas,Auburn,AR,AU,2.1,N/A,CBS,AR@AU10-16-2004
+11/13/2004,Georgia @ Auburn,Georgia-Auburn11-13-2004,Georgia,Auburn,UGA,AU,3,N/A,CBS,UGA@AU11-13-2004
+12/4/2004,Tennessee vs. Auburn,Tennessee-Auburn12-04-2004,Tennessee,Auburn,TENN,AU,4.4,N/A,CBS,TENN@AU12-04-2004
+11/16/2002,Georgia @Auburn,Georgia-Auburn11-16-2002,Georgia,Auburn,UGA,AU,3.3,N/A,CBS,UGA@AU11-16-2002
+11/17/2001,Alabama @ Auburn,Alabama-Auburn11-17-2001,Alabama,Auburn,UA,AU,2.3,N/A,CBS,UA@AU11-17-2001
+11/3/2018,Texas A&M @ Auburn,Texas A&M-Auburn11-03-2018,Texas A&M,Auburn,TAMU,AU,N/A,2621904,ESPN,TAMU@AU11-03-2018
+9/1/2017,Washington @ Auburn [ABC],Washington-Auburn09-01-2017,Washington,Auburn,WASH,AU,N/A,5363719,ABC,WASH@AU09-01-2017
+9/30/2017,Mississippi State @ Auburn,Mississippi State-Auburn09-30-2017,Mississippi State,Auburn,MS,AU,N/A,2383192,ESPN,MS@AU09-30-2017
+9/3/2016,Clemson @ Auburn,Clemson-Auburn09-03-2016,Clemson,Auburn,CU,AU,2.6,4741523,ESPN,CU@AU09-03-2016
+9/17/2016,Texas A&M @ Auburn,Texas A&M-Auburn09-17-2016,Texas A&M,Auburn,TAMU,AU,1.2,2087951,ESPN,TAMU@AU09-17-2016
+9/24/2016,LSU @ Auburn,LSU-Auburn09-24-2016,LSU,Auburn,LSU,AU,2.4,4098442,ESPN,LSU@AU09-24-2016
+10/22/2016,Arkansas @ Auburn,Arkansas-Auburn10-22-2016,Arkansas,Auburn,AR,AU,1.3,2129685,ESPN,AR@AU10-22-2016
+11/5/2016,Vanderbilt @ Auburn,Vanderbilt-Auburn11-05-2016,Vanderbilt,Auburn,VANDY,AU,1.3,2056985,ESPN,VANDY@AU11-05-2016
+10/4/2014,LSU @ Auburn,LSU-Auburn10-04-2014,LSU,Auburn,LSU,AU,2.1,3743541,ESPN,LSU@AU10-04-2014
+10/31/2015,Ole Miss @ Auburn,Mississippi (Ole Miss)-Auburn10-31-2015,Mississippi (Ole Miss),Auburn,OM,AU,2.3,3495264,ESPN,OM@AU10-31-2015
+9/22/2012,LSU @ AUB,LSU-Auburn09-22-2012,LSU,Auburn,LSU,AU,2.8,3767850,ESPN,LSU@AU09-22-2012
+9/1/2012,Clemson vs. Auburn,Clemson-Auburn09-01-2012,Clemson,Auburn,CU,AU,2.5,3581943,ESPN,CU@AU09-01-2012
+10/15/2011,FLA @ AU,Florida-Auburn10-15-2011,Florida,Auburn,UF,AU,2.6,3570696,ESPN,UF@AU10-15-2011
+9/18/2010,Clem @ AUB,Clemson-Auburn09-18-2010,Clemson,Auburn,CU,AU,2.92,4248318,ESPN,CU@AU09-18-2010
+9/25/2010,USC @ AUB,South Carolina-Auburn09-25-2010,South Carolina,Auburn,SCAR,AU,2.74,3813374,ESPN,SCAR@AU09-25-2010
+10/5/2013,UM @ AUB,Mississippi (Ole Miss)-Auburn10-05-2013,Mississippi (Ole Miss),Auburn,OM,AU,0.5,943023,ESPNU,OM@AU10-05-2013
+9/20/2008,LSU @ AUB,LSU-Auburn09-20-2008,LSU,Auburn,LSU,AU,4.09,N/A,ESPN,LSU@AU09-20-2008
+9/1/2007,KSU @ AU,Kansas State-Auburn09-01-2007,Kansas State,Auburn,KSU,AU,1.8,N/A,ESPN,KSU@AU09-01-2007
+10/14/2006,UF @ AU,Florida-Auburn10-14-2006,Florida,Auburn,UF,AU,3.94,N/A,ESPN,UF@AU10-14-2006
+9/3/2005,Ga. Tech @ AU,Georgia Tech-Auburn09-03-2005,Georgia Tech,Auburn,GT,AU,1.94,N/A,ESPN,GT@AU09-03-2005
+10/4/2003,Tennessee @ Auburn,Tennessee-Auburn10-04-2003,Tennessee,Auburn,TENN,AU,2.6,N/A,ESPN,TENN@AU10-04-2003
+11/22/2003,Alabama @ Auburn,Alabama-Auburn11-22-2003,Alabama,Auburn,UA,AU,2.71,N/A,ESPN,UA@AU11-22-2003
+10/29/2011,UM @ AUB,Mississippi (Ole Miss)-Auburn10-29-2011,Mississippi (Ole Miss),Auburn,OM,AU,0.8,823474,ESPNU,OM@AU10-29-2011
+10/13/2001,Florida @ Auburn,Florida-Auburn10-13-2001,Florida,Auburn,UF,AU,3.49,N/A,ESPN,UF@AU10-13-2001
+9/26/2015,Mississippi St @ Auburn,Mississippi State-Auburn09-26-2015,Mississippi State,Auburn,MS,AU,1.2,2164012,ESPN2,MS@AU09-26-2015
+9/6/2014,SJSU @ AU,San Jose State-Auburn09-06-2014,San Jose State,Auburn,SJST,AU,0.6,1019976,ESPN2,SJST@AU09-06-2014
+9/14/2013,MSU @ AUB,Mississippi State-Auburn09-14-2013,Mississippi State,Auburn,MS,AU,1.1,1860481,ESPN2,MS@AU09-14-2013
+10/6/2012,ARK @ AUB,Arkansas-Auburn10-06-2012,Arkansas,Auburn,AR,AU,1.4,1874505,ESPN2,AR@AU10-06-2012
+11/10/2012,UGA @ AUB,Georgia-Auburn11-10-2012,Georgia,Auburn,UGA,AU,1.1,1745258,ESPN2,UGA@AU11-10-2012
+11/8/2003,Ole Miss @ Auburn,Mississippi (Ole Miss)-Auburn11-08-2003,Mississippi (Ole Miss),Auburn,OM,AU,3.2,N/A,CBS,OM@AU11-08-2003
+9/19/2009,WVA @ AU,West Virginia-Auburn09-19-2009,West Virginia,Auburn,WVU,AU,1.44,1.09,ESPN2,WVU@AU09-19-2009
+8/31/2006,Wa. St. @ AU,Washington State-Auburn08-31-2006,Washington State,Auburn,WASHST,AU,0.97,0.94,ESPN2,WASHST@AU08-31-2006
+10/14/2006,UF @ AU,Florida-Auburn10-14-2006,Florida,Auburn,UF,AU,0.41,0.78,ESPN2,UF@AU10-14-2006
+10/1/2005,USC @ AUB,South Carolina-Auburn10-01-2005,South Carolina,Auburn,SCAR,AU,1.14,0.92,ESPN2,SCAR@AU10-01-2005
+9/28/2002,Syracuse @ Auburn,Syracuse-Auburn09-28-2002,Syracuse,Auburn,SU,AU,1.28,0.8,ESPN2,SU@AU09-28-2002
+10/6/2001,Miss. State @ Auburn,Mississippi State-Auburn10-06-2001,Mississippi State,Auburn,MS,AU,1.29,0.94,ESPN2,MS@AU10-06-2001
+9/8/2007,SFLA @ AU,South Florida-Auburn09-08-2007,South Florida,Auburn,USF,AU,1.68,1.41,ESPN2,USF@AU09-08-2007
+11/22/2014,Samford @ Auburn,Samford-Auburn11-22-2014,Samford,Auburn,SAMFORD,AU,0.4,818364,ESPNU,SAMFORD@AU11-22-2014
+8/31/2013,Washington St @ AUB,Washington State-Auburn08-31-2013,Washington State,Auburn,WASHST,AU,0.5,921593,ESPNU,WASHST@AU08-31-2013
+10/27/2012,TAMU @ AUB,Texas A&M-Auburn10-27-2012,Texas A&M,Auburn,TAMU,AU,0.5,488659,ESPNU,TAMU@AU10-27-2012
+10/14/2016,Mississippi State @ BYU,Mississippi State-BYU10-14-2016,Mississippi State,BYU,MS,BYU,1,1474025,ESPN,MS@BYU10-14-2016
+9/16/2017,Ole Miss @ California (ESPN),Mississippi (Ole Miss)-California09-16-2017,Mississippi (Ole Miss),California,OM,CAL,N/A,1241361,ESPN,OM@CAL09-16-2017
+9/28/2013,USC @ Central FL,South Carolina-Central Florida09-28-2013,South Carolina,Central Florida,SCAR,UCF,N/A,N/A,ESPN,SCAR@UCF09-28-2013
+11/24/2018,South Carolina @ Clemson,South Carolina-Clemson11-24-2018,South Carolina,Clemson,SCAR,CU,N/A,3260925,ESPN,SCAR@CU11-24-2018
+9/9/2017,Auburn @ Clemson (ESPN),Auburn-Clemson09-09-2017,Auburn,Clemson,AU,CU,N/A,3503502,ESPN,AU@CU09-09-2017
+11/26/2016,S. Carolina @ Clemson,South Carolina-Clemson11-26-2016,South Carolina,Clemson,SCAR,CU,1.5,1756370,ESPN,SCAR@CU11-26-2016
+11/29/2014,S.Carolina @ Clemson,South Carolina-Clemson11-29-2014,South Carolina,Clemson,SCAR,CU,1.3,2017304,ESPN,SCAR@CU11-29-2014
+8/31/2013,UGA @ Clemson (ABC),Georgia-Clemson08-31-2013,Georgia,Clemson,UGA,CU,4.8,8137249,ABC,UGA@CU08-31-2013
+11/24/2012,USC @ Clemson,South Carolina-Clemson11-24-2012,South Carolina,Clemson,SCAR,CU,2,3051373,ESPN,SCAR@CU11-24-2012
+9/17/2011,AUB @ Clemson,Auburn-Clemson09-17-2011,Auburn,Clemson,AU,CU,N/A,N/A,ESPN,AU@CU09-17-2011
+11/27/2010,USC @ Clemson,South Carolina-Clemson11-27-2010,South Carolina,Clemson,SCAR,CU,1.5,2235523,ESPN,SCAR@CU11-27-2010
+8/30/2008,ALA. vs. Clemson (ABC),Alabama-Clemson08-30-2008,Alabama,Clemson,UA,CU,3.57,N/A,ABC,UA@CU08-30-2008
+11/25/2006,USC @ Clemson,South Carolina-Clemson11-25-2006,South Carolina,Clemson,SCAR,CU,1.64,N/A,ESPN,SCAR@CU11-25-2006
+11/23/2002,S. Carolina @ Clemson,South Carolina-Clemson11-23-2002,South Carolina,Clemson,SCAR,CU,1.54,N/A,ESPN,SCAR@CU11-23-2002
+11/29/2008,USC @ Clemson,South Carolina-Clemson11-29-2008,South Carolina,Clemson,SCAR,CU,1.05,1.05,ESPN2,SCAR@CU11-29-2008
+9/18/2010,ALA @ Duke,Alabama-Duke09-18-2010,Alabama,Duke,UA,DU,2.6,4174995,ESPN,UA@DU09-18-2010
+10/6/2018,LSU @ Florida,LSU-Florida10-06-2018,LSU,Florida,LSU,UF,2.9,4750000,CBS,LSU@UF10-06-2018
+9/16/2017,Tennessee @ Florida,Tennessee-Florida09-16-2017,Tennessee,Florida,TENN,UF,3.2,5160000,CBS,TENN@UF09-16-2017
+10/7/2017,LSU @ Florida,LSU-Florida10-07-2017,LSU,Florida,LSU,UF,2.5,4140000,CBS,LSU@UF10-07-2017
+10/28/2017,Georgia vs. Florida (@Jacksonville),Georgia-Florida10-28-2017,Georgia,Florida,UGA,UF,2,3410000,CBS,UGA@UF10-28-2017
+9/10/2016,Kentucky @ Florida,Kentucky-Florida09-10-2016,Kentucky,Florida,UK,UF,1.6,2500000,CBS,UK@UF09-10-2016
+11/12/2016,South Carolina @ Florida,South Carolina-Florida11-12-2016,South Carolina,Florida,SCAR,UF,1.5,2450000,CBS,SCAR@UF11-12-2016
+12/3/2016,Alabama vs. Florida ,Alabama-Florida12-03-2016,Alabama,Florida,UA,UF,6.6,11090000,CBS,UA@UF12-03-2016
+9/26/2015,Tennessee @ Florida,Tennessee-Florida09-26-2015,Tennessee,Florida,TENN,UF,2.9,4640000,CBS,TENN@UF09-26-2015
+12/5/2015,Alabama vs. Florida ,Alabama-Florida12-05-2015,Alabama,Florida,UA,UF,7.8,12760000,CBS,UA@UF12-05-2015
+11/1/2014,Georgia @ Florida,Georgia-Florida11-01-2014,Georgia,Florida,UGA,UF,4,5711000,CBS,UGA@UF11-01-2014
+9/21/2013,UT @ UF,Tennessee-Florida09-21-2013,Tennessee,Florida,TENN,UF,2.8,4544000,CBS,TENN@UF09-21-2013
+11/2/2013,UGA / FLA,Georgia-Florida11-02-2013,Georgia,Florida,UGA,UF,3.1,4918000,CBS,UGA@UF11-02-2013
+10/6/2012,LSU @ UF,LSU-Florida10-06-2012,LSU,Florida,LSU,UF,4.6,7130000,CBS,LSU@UF10-06-2012
+10/20/2012,USC @ UF,South Carolina-Florida10-20-2012,South Carolina,Florida,SCAR,UF,3.1,4910000,CBS,SCAR@UF10-20-2012
+10/27/2012,UGA @ UF,Georgia-Florida10-27-2012,Georgia,Florida,UGA,UF,4.2,6630000,CBS,UGA@UF10-27-2012
+9/17/2011,UT @ FLA,Tennessee-Florida09-17-2011,Tennessee,Florida,TENN,UF,3,4620000,CBS,TENN@UF09-17-2011
+10/1/2011,ALA @ FLA,Alabama-Florida10-01-2011,Alabama,Florida,UA,UF,4.6,7590000,CBS,UA@UF10-01-2011
+10/29/2011,UGA @ FLA,Georgia-Florida10-29-2011,Georgia,Florida,UGA,UF,3.2,5020000,CBS,UGA@UF10-29-2011
+10/30/2010,UGA vs FLA,Georgia-Florida10-30-2010,Georgia,Florida,UGA,UF,3.3,5480000,CBS,UGA@UF10-30-2010
+9/24/2009,UT @ FLA,Tennessee-Florida09-24-2009,Tennessee,Florida,TENN,UF,4.3,N/A,CBS,TENN@UF09-24-2009
+10/17/2009,ARK @ FLA,Arkansas-Florida10-17-2009,Arkansas,Florida,AR,UF,4.3,N/A,CBS,AR@UF10-17-2009
+11/28/2009,FSU @ FLA,Florida State-Florida11-28-2009,Florida State,Florida,FSU,UF,4.7,N/A,CBS,FSU@UF11-28-2009
+12/6/2009,ALA vs FLA,Alabama-Florida12-06-2009,Alabama,Florida,UA,UF,11.1,N/A,CBS,UA@UF12-06-2009
+10/11/2008,LSU @ FLA,LSU-Florida10-11-2008,LSU,Florida,LSU,UF,3.8,N/A,CBS,LSU@UF10-11-2008
+11/1/2008,UGA vs. FLA,Georgia-Florida11-01-2008,Georgia,Florida,UGA,UF,3.8,N/A,CBS,UGA@UF11-01-2008
+11/15/2008,USC @ FLA,South Carolina-Florida11-15-2008,South Carolina,Florida,SCAR,UF,3.3,N/A,CBS,SCAR@UF11-15-2008
+9/15/2007,UT @ FLA,Tennessee-Florida09-15-2007,Tennessee,Florida,TENN,UF,2.6,N/A,CBS,TENN@UF09-15-2007
+11/24/2007,FSU @ FLA,Florida State-Florida11-24-2007,Florida State,Florida,FSU,UF,3.7,N/A,CBS,FSU@UF11-24-2007
+9/30/2006,AL @ UF,Alabama-Florida09-30-2006,Alabama,Florida,UA,UF,3.4,N/A,CBS,UA@UF09-30-2006
+10/7/2006,LSU @ UF,LSU-Florida10-07-2006,LSU,Florida,LSU,UF,3.4,N/A,CBS,LSU@UF10-07-2006
+10/28/2006,UGA vs. UF,Georgia-Florida10-28-2006,Georgia,Florida,UGA,UF,3.5,N/A,CBS,UGA@UF10-28-2006
+11/11/2006,USC @ UF,South Carolina-Florida11-11-2006,South Carolina,Florida,SCAR,UF,3.9,N/A,CBS,SCAR@UF11-11-2006
+9/17/2005,UT @ UF,Tennessee-Florida09-17-2005,Tennessee,Florida,TENN,UF,4,N/A,CBS,TENN@UF09-17-2005
+10/29/2005,UGA vs. UF,Georgia-Florida10-29-2005,Georgia,Florida,UGA,UF,3.4,N/A,CBS,UGA@UF10-29-2005
+11/26/2005,FSU @ FLA,Florida State-Florida11-26-2005,Florida State,Florida,FSU,UF,3.8,N/A,CBS,FSU@UF11-26-2005
+10/2/2004,Arkansas @ Florida,Arkansas-Florida10-02-2004,Arkansas,Florida,AR,UF,2,N/A,CBS,AR@UF10-02-2004
+10/30/2004,Georgia vs. Florida,Georgia-Florida10-30-2004,Georgia,Florida,UGA,UF,2.9,N/A,CBS,UGA@UF10-30-2004
+9/20/2003,Tennessee @ Florida,Tennessee-Florida09-20-2003,Tennessee,Florida,TENN,UF,3.8,N/A,CBS,TENN@UF09-20-2003
+11/1/2003,Georgia vs. Florida,Georgia-Florida11-01-2003,Georgia,Florida,UGA,UF,3.7,N/A,CBS,UGA@UF11-01-2003
+11/29/2003,Florida St. @ Florida,Florida State-Florida11-29-2003,Florida State,Florida,FSU,UF,5.7,N/A,CBS,FSU@UF11-29-2003
+9/28/2002,Kentucky @ Florida,Kentucky-Florida09-28-2002,Kentucky,Florida,UK,UF,2.9,N/A,CBS,UK@UF09-28-2002
+9/1/2001,Marshall @ Florida,Marshall-Florida09-01-2001,Marshall,Florida,MARSH,UF,0.91,N/A,ESPN2,MARSH@UF09-01-2001
+9/29/2001,Miss. State @ Florida,Mississippi State-Florida09-29-2001,Mississippi State,Florida,MS,UF,1.9,N/A,CBS,MS@UF09-29-2001
+10/27/2001,Georgia @ Florida,Georgia-Florida10-27-2001,Georgia,Florida,UGA,UF,2.8,N/A,CBS,UGA@UF10-27-2001
+11/17/2001,Fla. State @ Florida,Florida State-Florida11-17-2001,Florida State,Florida,FSU,UF,4,N/A,CBS,FSU@UF11-17-2001
+12/1/2001,Tennessee @ Florida,Tennessee-Florida12-01-2001,Tennessee,Florida,TENN,UF,6.2,N/A,CBS,TENN@UF12-01-2001
+11/10/2018,South Carolina @ Florida,South Carolina-Florida11-10-2018,South Carolina,Florida,SCAR,UF,N/A,2068232,ESPN,SCAR@UF11-10-2018
+9/6/2008,Miami @ UF,Miami (FL)-Florida09-06-2008,Miami (FL),Florida,MIAMI,UF,5,N/A,ESPN,MIAMI@UF09-06-2008
+9/7/2002,Miami @ Florida,Miami (FL)-Florida09-07-2002,Miami (FL),Florida,MIAMI,UF,4.9,N/A,CBS,MIAMI@UF09-07-2002
+9/30/2017,Vanderbilt @ Florida,Vanderbilt-Florida09-30-2017,Vanderbilt,Florida,VANDY,UF,N/A,2815085,ESPN,VANDY@UF09-30-2017
+11/25/2017,Florida State @ Florida,Florida State-Florida11-25-2017,Florida State,Florida,FSU,UF,N/A,2055936,ESPN,FSU@UF11-25-2017
+9/2/2017,Michigan @ Florida (ABC),Michigan-Florida09-02-2017,Michigan,Florida,MICH,UF,N/A,7895057,ABC,MICH@UF09-02-2017
+11/7/2015,Vanderbilt @ Florida,Vanderbilt-Florida11-07-2015,Vanderbilt,Florida,VANDY,UF,1.8,2736382,ESPN,VANDY@UF11-07-2015
+11/27/2015,Florida St @ Florida ,Florida State-Florida11-27-2015,Florida State,Florida,FSU,UF,2.4,4280301,ESPN,FSU@UF11-27-2015
+10/3/2015,Ole Miss @ Florida,Mississippi (Ole Miss)-Florida10-03-2015,Mississippi (Ole Miss),Florida,OM,UF,2.1,3744644,ESPN,OM@UF10-03-2015
+11/30/2013,FLA ST @ FLA,Florida State-Florida11-30-2013,Florida State,Florida,FSU,UF,2.1,3150692,ESPN,FSU@UF11-30-2013
+9/1/2012,Bowling Green @ FLA,Bowling Green-Florida09-01-2012,Bowling Green,Florida,BGSU,UF,2.1,2757680,ESPN,BGSU@UF09-01-2012
+10/9/2010,LSU @ FLA,LSU-Florida10-09-2010,LSU,Florida,LSU,UF,3.65,5321359,ESPN,LSU@UF10-09-2010
+11/13/2010,USC @ FLA,South Carolina-Florida11-13-2010,South Carolina,Florida,SCAR,UF,2.95,4350547,ESPN,SCAR@UF11-13-2010
+9/29/2007,AUB @ FLA,Auburn-Florida09-29-2007,Auburn,Florida,AU,UF,3.62,N/A,ESPN,AU@UF09-29-2007
+9/23/2006,UK @ UF,Kentucky-Florida09-23-2006,Kentucky,Florida,UK,UF,1.99,N/A,ESPN,UK@UF09-23-2006
+10/9/2004,LSU @ Florida,LSU-Florida10-09-2004,LSU,Florida,LSU,UF,2.96,N/A,ESPN,LSU@UF10-09-2004
+10/12/2002,LSU @ Florida,LSU-Florida10-12-2002,LSU,Florida,LSU,UF,2.13,N/A,ESPN,LSU@UF10-12-2002
+10/19/2002,Auburn @ Florida,Auburn-Florida10-19-2002,Auburn,Florida,AU,UF,2.21,N/A,ESPN,AU@UF10-19-2002
+11/16/2002,S. Carolina @ Florida,South Carolina-Florida11-16-2002,South Carolina,Florida,SCAR,UF,1.39,N/A,ESPN,SCAR@UF11-16-2002
+10/14/2017,Texas A&M @ Florida,Texas A&M-Florida10-14-2017,Texas A&M,Florida,TAMU,UF,N/A,2112301,ESPN2,TAMU@UF10-14-2017
+9/12/2015,East Carolina @ Florida,East Carolina-Florida09-12-2015,East Carolina,Florida,ECU,UF,0.7,1045991,ESPN2,ECU@UF09-12-2015
+10/18/2014,Missouri @ Florida,Missouri-Florida10-18-2014,Missouri,Florida,MIZZU,UF,0.7,1161848,ESPN2,MIZZU@UF10-18-2014
+10/5/2013,ARK @ UF,Arkansas-Florida10-05-2013,Arkansas,Florida,AR,UF,1,1550373,ESPN2,AR@UF10-05-2013
+11/3/2012,MIZ @ UF,Missouri-Florida11-03-2012,Missouri,Florida,MIZZU,UF,1.7,2267937,ESPN2,MIZZU@UF11-03-2012
+11/26/2011,Florida St @ UF,Florida State-Florida11-26-2011,Florida State,Florida,FSU,UF,1.8,2562024,ESPN2,FSU@UF11-26-2011
+11/7/2009,VU @ FLA,Vanderbilt-Florida11-07-2009,Vanderbilt,Florida,VANDY,UF,2.07,1.37,ESPN2,VANDY@UF11-07-2009
+11/5/2005,VU @ UF,Vanderbilt-Florida11-05-2005,Vanderbilt,Florida,VANDY,UF,1.19,1,ESPN2,VANDY@UF11-05-2005
+9/25/2004,Kentucky @ Florida,Kentucky-Florida09-25-2004,Kentucky,Florida,UK,UF,1.4,1.05,ESPN2,UK@UF09-25-2004
+11/13/2004,S. Carolina @ Florida,South Carolina-Florida11-13-2004,South Carolina,Florida,SCAR,UF,1.19,1,ESPN2,SCAR@UF11-13-2004
+11/17/2018,Idaho @ Florida,Idaho-Florida11-17-2018,Idaho,Florida,IDAHO,UF,N/A,295091,ESPNU,IDAHO@UF11-17-2018
+9/17/2016,N. Texas @ Florida,North Texas-Florida09-17-2016,North Texas,Florida,UNT,UF,0.3,543044,ESPNU,UNT@UF09-17-2016
+8/30/2014,Idaho @ FLA,Idaho-Florida08-30-2014,Idaho,Florida,IDAHO,UF,N/A,N/A,ESPNU,IDAHO@UF08-30-2014
+9/3/2011,Fla Atlantic @ UF,Florida Atlantic-Florida09-03-2011,Florida Atlantic,Florida,FAU,UF,0.5,516931,ESPNU,FAU@UF09-03-2011
+11/24/2018,Florida @ Florida State [ESPN],Florida-Florida State11-24-2018,Florida,Florida State,UF,FSU,N/A,2415399,ESPN,UF@FSU11-24-2018
+11/26/2016,Florida @ Florida St (ABC),Florida-Florida State11-26-2016,Florida,Florida State,UF,FSU,3.6,4240277,ABC,UF@FSU11-26-2016
+9/5/2016,Ole Miss @ Florida St (ESPN),Mississippi (Ole Miss)-Florida State09-05-2016,Mississippi (Ole Miss),Florida State,OM,FSU,4.8,8354036,ESPN,OM@FSU09-05-2016
+11/29/2014,Florida @ Florida State,Florida-Florida State11-29-2014,Florida,Florida State,UF,FSU,3.5,5964410,ESPN,UF@FSU11-29-2014
+11/24/2012,UF @ Florida State (ABC),Florida-Florida State11-24-2012,Florida,Florida State,UF,FSU,5.1,8466280,ABC,UF@FSU11-24-2012
+11/20/2004,Florida @ Florida State,Florida-Florida State11-20-2004,Florida,Florida State,UF,FSU,4.41,N/A,ESPN,UF@FSU11-20-2004
+10/1/2011,Ole Miss @ Fresno ,Mississippi (Ole Miss)-Fresno10-01-2011,Mississippi (Ole Miss),Fresno,OM,FRESNO,0.5,638610,ESPN2,OM@FRESNO10-01-2011
+9/29/2018,Tennessee @ Georgia,Tennessee-Georgia09-29-2018,Tennessee,Georgia,TENN,UGA,2.3,3660000,CBS,TENN@UGA09-29-2018
+10/27/2018,Florida vs. Georgia,Florida-Georgia10-27-2018,Florida,Georgia,UF,UGA,3.9,6410000,CBS,UF@UGA10-27-2018
+12/1/2018,Alabama vs. Georgia,Alabama-Georgia12-01-2018,Alabama,Georgia,UA,UGA,10.1,N/A,CBS,UA@UGA12-01-2018
+11/4/2017,South Carolina @ Georgia,South Carolina-Georgia11-04-2017,South Carolina,Georgia,SCAR,UGA,2.1,3510000,CBS,SCAR@UGA11-04-2017
+11/18/2017,Kentucky @ Georgia,Kentucky-Georgia11-18-2017,Kentucky,Georgia,UK,UGA,2.1,3410000,CBS,UK@UGA11-18-2017
+10/1/2016,Tennessee @ Georgia ,Tennessee-Georgia10-01-2016,Tennessee,Georgia,TENN,UGA,2.6,4200000,CBS,TENN@UGA10-01-2016
+10/29/2016,Florida @ Georgia,Florida-Georgia10-29-2016,Florida,Georgia,UF,UGA,2.6,4500000,CBS,UF@UGA10-29-2016
+11/12/2016,Auburn @ Georgia,Auburn-Georgia11-12-2016,Auburn,Georgia,AU,UGA,2.9,4990000,CBS,AU@UGA11-12-2016
+10/3/2015,Alabama @ Georgia,Alabama-Georgia10-03-2015,Alabama,Georgia,UA,UGA,4.2,7045000,CBS,UA@UGA10-03-2015
+10/31/2015,Florida @ Georgia,Florida-Georgia10-31-2015,Florida,Georgia,UF,UGA,3.1,5036000,CBS,UF@UGA10-31-2015
+9/28/2013,LSU @ UGA,LSU-Georgia09-28-2013,LSU,Georgia,LSU,UGA,4.6,7392000,CBS,LSU@UGA09-28-2013
+9/29/2012,UT @ UGA,Tennessee-Georgia09-29-2012,Tennessee,Georgia,TENN,UGA,2.9,4680000,CBS,TENN@UGA09-29-2012
+12/1/2012,ALA vs. UGA,Alabama-Georgia12-01-2012,Alabama,Georgia,UA,UGA,9.8,16230000,CBS,UA@UGA12-01-2012
+11/12/2011,AUB @ UGA,Auburn-Georgia11-12-2011,Auburn,Georgia,AU,UGA,2.6,4190000,CBS,AU@UGA11-12-2011
+10/3/2009,LSU @ UGA,LSU-Georgia10-03-2009,LSU,Georgia,LSU,UGA,3.5,N/A,CBS,LSU@UGA10-03-2009
+10/31/2009,FLA vs UGA,Florida-Georgia10-31-2009,Florida,Georgia,UF,UGA,4.4,N/A,CBS,UF@UGA10-31-2009
+10/11/2008,UT @ UGA,Tennessee-Georgia10-11-2008,Tennessee,Georgia,TENN,UGA,2.5,N/A,CBS,TENN@UGA10-11-2008
+11/29/2008,GA Tech @ UGA,Georgia Tech-Georgia11-29-2008,Georgia Tech,Georgia,GT,UGA,3,N/A,CBS,GT@UGA11-29-2008
+10/27/2007,FLA - UGA,Florida-Georgia10-27-2007,Florida,Georgia,UF,UGA,4,N/A,CBS,UF@UGA10-27-2007
+11/10/2007,AUB  @ UGA,Auburn-Georgia11-10-2007,Auburn,Georgia,AU,UGA,2.3,N/A,CBS,AU@UGA11-10-2007
+11/25/2006,GA Tech @ UGA,Georgia Tech-Georgia11-25-2006,Georgia Tech,Georgia,GT,UGA,3.2,N/A,CBS,GT@UGA11-25-2006
+10/2/2004,LSU @ Georgia,LSU-Georgia10-02-2004,LSU,Georgia,LSU,UGA,3.1,N/A,CBS,LSU@UGA10-02-2004
+10/9/2004,Tennessee @ Georgia,Tennessee-Georgia10-09-2004,Tennessee,Georgia,TENN,UGA,3,N/A,CBS,TENN@UGA10-09-2004
+11/27/2004,Georgia Tech @ Georgia,Georgia Tech-Georgia11-27-2004,Georgia Tech,Georgia,GT,UGA,3,N/A,CBS,GT@UGA11-27-2004
+9/13/2003,S. Carolina @ Georgia,South Carolina-Georgia09-13-2003,South Carolina,Georgia,SCAR,UGA,1.8,N/A,CBS,SCAR@UGA09-13-2003
+10/4/2003,Alabama @ Georgia,Alabama-Georgia10-04-2003,Alabama,Georgia,UA,UGA,2.1,N/A,CBS,UA@UGA10-04-2003
+11/15/2003,Auburn @ Georgia,Auburn-Georgia11-15-2003,Auburn,Georgia,AU,UGA,2.5,N/A,CBS,AU@UGA11-15-2003
+10/12/2002,Tennessee @ Georgia,Tennessee-Georgia10-12-2002,Tennessee,Georgia,TENN,UGA,1.9,N/A,CBS,TENN@UGA10-12-2002
+11/30/2002,Ga. Tech @ Georgia,Georgia Tech-Georgia11-30-2002,Georgia Tech,Georgia,GT,UGA,2.2,N/A,CBS,GT@UGA11-30-2002
+10/13/2001,Tennessee @ Georgia,Tennessee-Georgia10-13-2001,Tennessee,Georgia,TENN,UGA,2.4,N/A,CBS,TENN@UGA10-13-2001
+11/10/2001,Auburn @ Georgia,Auburn-Georgia11-10-2001,Auburn,Georgia,AU,UGA,2.2,N/A,CBS,AU@UGA11-10-2001
+9/1/2018,Austin Peay @ Georgia,Austin Peay-Georgia09-01-2018,Austin Peay,Georgia,APSU,UGA,N/A,1193213,ESPN,APSU@UGA09-01-2018
+11/10/2018,Auburn @ Georgia,Auburn-Georgia11-10-2018,Auburn,Georgia,AU,UGA,N/A,3987474,ESPN,AU@UGA11-10-2018
+9/2/2017,Appalachian State @ Georgia,Appalachian State-Georgia09-02-2017,Appalachian State,Georgia,APPST,UGA,N/A,1744365,ESPN,APPST@UGA09-02-2017
+9/2/2017,Middle Tennessee @ Georgia (Moved from E2 to ESPNNews),Middle Tennessee State-Georgia09-02-2017,Middle Tennessee State,Georgia,MTSU,UGA,N/A,468631,ESPNews,MTSU@UGA09-02-2017
+9/23/2017,Mississippi State @ Georgia,Mississippi State-Georgia09-23-2017,Mississippi State,Georgia,MS,UGA,N/A,2897157,ESPN,MS@UGA09-23-2017
+9/19/2015,S. Carolina @ Georiga,South Carolina-Georgia09-19-2015,South Carolina,Georgia,SCAR,UGA,1.9,3188941,ESPN,SCAR@UGA09-19-2015
+8/30/2014,Clemson @ UGA,Clemson-Georgia08-30-2014,Clemson,Georgia,CU,UGA,2.3,3952421,ESPN,CU@UGA08-30-2014
+9/27/2014,Tenn @ Georgia,Tennessee-Georgia09-27-2014,Tennessee,Georgia,TENN,UGA,3.1,4721001,ESPN,TENN@UGA09-27-2014
+11/15/2014,Auburn @ Georgia,Auburn-Georgia11-15-2014,Auburn,Georgia,AU,UGA,2.6,4613243,ESPN,AU@UGA11-15-2014
+9/7/2013,USC @ UGA,South Carolina-Georgia09-07-2013,South Carolina,Georgia,SCAR,UGA,4.3,7045237,ESPN,SCAR@UGA09-07-2013
+10/12/2013,MZ @ UGA,Missouri-Georgia10-12-2013,Missouri,Georgia,MIZZU,UGA,2.1,2437682,ESPN,MIZZU@UGA10-12-2013
+11/24/2012,Georgia Tech @ UGA,Georgia Tech-Georgia11-24-2012,Georgia Tech,Georgia,GT,UGA,1.7,2294725,ESPN,GT@UGA11-24-2012
+9/3/2011,Boise St. @ UGA,Boise State-Georgia09-03-2011,Boise State,Georgia,BSU,UGA,2.6,3734734,ESPN,BSU@UGA09-03-2011
+9/10/2011,USC @ UGA,South Carolina-Georgia09-10-2011,South Carolina,Georgia,SCAR,UGA,2.8,3949030,ESPN,SCAR@UGA09-10-2011
+9/18/2010,ARK @ UGA,Arkansas-Georgia09-18-2010,Arkansas,Georgia,AR,UGA,3.31,4250580,ESPN,AR@UGA09-18-2010
+11/27/2010,GA Tech @ UGA,Georgia Tech-Georgia11-27-2010,Georgia Tech,Georgia,GT,UGA,1.84,2746576,ESPN,GT@UGA11-27-2010
+9/27/2008,ALA @ UGA,Alabama-Georgia09-27-2008,Alabama,Georgia,UA,UGA,4.6,N/A,ESPN,UA@UGA09-27-2008
+10/7/2006,UT @ UGA,Tennessee-Georgia10-07-2006,Tennessee,Georgia,TENN,UGA,3.35,N/A,ESPN,TENN@UGA10-07-2006
+11/3/2012,UM @ UGA,Mississippi (Ole Miss)-Georgia11-03-2012,Mississippi (Ole Miss),Georgia,OM,UGA,1.9,2900000,CBS,OM@UGA11-03-2012
+9/3/2005,Boise State @ UGA,Boise State-Georgia09-03-2005,Boise State,Georgia,BSU,UGA,1.29,N/A,ESPN,BSU@UGA09-03-2005
+9/10/2005,USC @ UGA,South Carolina-Georgia09-10-2005,South Carolina,Georgia,SCAR,UGA,2.47,N/A,ESPN,SCAR@UGA09-10-2005
+11/12/2005,AU @ UGA,Auburn-Georgia11-12-2005,Auburn,Georgia,AU,UGA,3.95,N/A,ESPN,AU@UGA11-12-2005
+8/31/2002,Clemson @ Georgia,Clemson-Georgia08-31-2002,Clemson,Georgia,CU,UGA,1.49,N/A,ESPN,CU@UGA08-31-2002
+11/2/2002,Florida @ Georgia,Florida-Georgia11-02-2002,Florida,Georgia,UF,UGA,3.56,N/A,ESPN,UF@UGA11-02-2002
+9/8/2001,S. Carolina @ Georgia,South Carolina-Georgia09-08-2001,South Carolina,Georgia,SCAR,UGA,1.94,N/A,ESPN,SCAR@UGA09-08-2001
+9/22/2012,VU @ UGA,Vanderbilt-Georgia09-22-2012,Vanderbilt,Georgia,VANDY,UGA,0.6,886472,ESPN2,VANDY@UGA09-22-2012
+9/12/2009,USC @ UGA,South Carolina-Georgia09-12-2009,South Carolina,Georgia,SCAR,UGA,1.83,1.15,ESPN2,SCAR@UGA09-12-2009
+11/14/2009,AUB @ UGA,Auburn-Georgia11-14-2009,Auburn,Georgia,AU,UGA,1.53,1.06,ESPN2,AU@UGA11-14-2009
+11/21/2009,UK @ UGA,Kentucky-Georgia11-21-2009,Kentucky,Georgia,UK,UGA,1.43,1,ESPN2,UK@UGA11-21-2009
+11/9/2002,Ole Miss @ Georgia,Mississippi (Ole Miss)-Georgia11-09-2002,Mississippi (Ole Miss),Georgia,OM,UGA,1.28,N/A,ESPN,OM@UGA11-09-2002
+9/8/2007,USC @ UGA,South Carolina-Georgia09-08-2007,South Carolina,Georgia,SCAR,UGA,1.98,1.41,ESPN2,SCAR@UGA09-08-2007
+9/29/2001,Arkansas @ Georgia,Arkansas-Georgia09-29-2001,Arkansas,Georgia,AR,UGA,1.11,0.72,ESPN2,AR@UGA09-29-2001
+9/1/2007,OKSU @ UGA,Oklahoma State-Georgia09-01-2007,Oklahoma State,Georgia,OKSTU,UGA,1.27,0.76,ESPN2,OKSTU@UGA09-01-2007
+11/21/2015,Ga Southern @ Georgia,Georgia Southern-Georgia11-21-2015,Georgia Southern,Georgia,GAS,UGA,0.5,953702,ESPNU,GAS@UGA11-21-2015
+11/23/2013,UK @ UGA,Kentucky-Georgia11-23-2013,Kentucky,Georgia,UK,UGA,0.5,952593,ESPNU,UK@UGA11-23-2013
+9/4/2017,Tennessee @ Georgia Tech (ESPN),Tennessee-Georgia Tech09-04-2017,Tennessee,Georgia Tech,TENN,GT,N/A,5267782,ESPN,TENN@GT09-04-2017
+11/26/2011,UGA @ Ga Tech,Georgia-Georgia Tech11-26-2011,Georgia,Georgia Tech,UGA,GT,1.9,2623723,ESPN,UGA@GT11-26-2011
+11/26/2011,UGA @ GA Tech,Georgia-Georgia Tech11-26-2011,Georgia,Georgia Tech,UGA,GT,4.47,N/A,ESPN,UGA@GT11-26-2011
+11/27/2015,Georgia @ GA Tech,Georgia-Georgia Tech11-27-2015,Georgia,Georgia Tech,UGA,GT,0.6,1022684,ESPN2,UGA@GT11-27-2015
+11/29/2003,Alabama @ Hawaii,Alabama-Hawaii11-29-2003,Alabama,Hawaii,UA,HAWAII,1.72,N/A,ESPN,UA@HAWAII11-29-2003
+11/30/2002,Alabama @ Hawaii,Alabama-Hawaii11-30-2002,Alabama,Hawaii,UA,HAWAII,1.49,N/A,ESPN,UA@HAWAII11-30-2002
+10/31/2015,Vanderbilt @ Houston,Vanderbilt-Houston10-31-2015,Vanderbilt,Houston,VANDY,HOU,0.2,392271,ESPN2,VANDY@HOU10-31-2015
+9/2/2017,Mississippi State @ Kansas State [ESPN],Mississippi State-Kansas State09-02-2017,Mississippi State,Kansas State,MS,KSU,N/A,1800174,ESPN,MS@KSU09-02-2017
+9/18/2014,Auburn @ Kansas State,Auburn-Kansas State09-18-2014,Auburn,Kansas State,AU,KSU,2.3,3845783,ESPN,AU@KSU09-18-2014
+11/3/2018,Georgia @ Kentucky,Georgia-Kentucky11-03-2018,Georgia,Kentucky,UGA,UK,2.6,4430000,CBS,UGA@UK11-03-2018
+10/25/2014,Miss State @ Kentucky,Mississippi State-Kentucky10-25-2014,Mississippi State,Kentucky,MS,UK,3.1,4995000,CBS,MS@UK10-25-2014
+9/5/2015,La. Lafayette @ Kentucky,Louisiana-Lafayette-Kentucky09-05-2015,Louisiana-Lafayette,Kentucky,ULLAF,UK,0.2,310456,ESPNU,ULLAF@UK09-05-2015
+10/13/2007,LSU @ UK,LSU-Kentucky10-13-2007,LSU,Kentucky,LSU,UK,4.2,N/A,CBS,LSU@UK10-13-2007
+10/20/2007,FLA @ UK,Florida-Kentucky10-20-2007,Florida,Kentucky,UF,UK,3.3,N/A,CBS,UF@UK10-20-2007
+11/24/2007,UT @  UK,Tennessee-Kentucky11-24-2007,Tennessee,Kentucky,TENN,UK,3.3,N/A,CBS,TENN@UK11-24-2007
+9/24/2005,UF @ UK,Florida-Kentucky09-24-2005,Florida,Kentucky,UF,UK,1.7,N/A,CBS,UF@UK09-24-2005
+10/26/2002,Georgia @ Kentucky,Georgia-Kentucky10-26-2002,Georgia,Kentucky,UGA,UK,2.3,N/A,CBS,UGA@UK10-26-2002
+10/15/2015,Auburn @ Kentucky,Auburn-Kentucky10-15-2015,Auburn,Kentucky,AU,UK,1.4,2225709,ESPN,AU@UK10-15-2015
+11/8/2014,Georgia @ Kentucky,Georgia-Kentucky11-08-2014,Georgia,Kentucky,UGA,UK,1.9,2737136,ESPN,UGA@UK11-08-2014
+9/7/2013,Louisville @ UK,Louisville-Kentucky09-07-2013,Louisville,Kentucky,LOU,UK,1.6,2279223,ESPN,LOU@UK09-07-2013
+9/24/2011,FLA @ UK,Florida-Kentucky09-24-2011,Florida,Kentucky,UF,UK,1.7,2138785,ESPN,UF@UK09-24-2011
+9/15/2007,Lou @ UK (ESPN Classic),Louisville-Kentucky09-15-2007,Louisville,Kentucky,LOU,UK,0.79,N/A,ESPN Classic,LOU@UK09-15-2007
+9/4/2005,Louisville @ UK,Louisville-Kentucky09-04-2005,Louisville,Kentucky,LOU,UK,1.53,N/A,ESPN,LOU@UK09-04-2005
+11/5/2011,UM @ UK,Mississippi (Ole Miss)-Kentucky11-05-2011,Mississippi (Ole Miss),Kentucky,OM,UK,0.7,785458,ESPNU,OM@UK11-05-2011
+9/22/2018,Mississippi State @ Kentucky,Mississippi State-Kentucky09-22-2018,Mississippi State,Kentucky,MS,UK,N/A,1218693,ESPN2,MS@UK09-22-2018
+10/12/2013,ALA @ UK,Alabama-Kentucky10-12-2013,Alabama,Kentucky,UA,UK,1.5,1720711,ESPN2,UA@UK10-12-2013
+9/29/2012,USC @ UK,South Carolina-Kentucky09-29-2012,South Carolina,Kentucky,SCAR,UK,1.4,1873864,ESPN2,SCAR@UK09-29-2012
+10/9/2010,AUB @ UK,Auburn-Kentucky10-09-2010,Auburn,Kentucky,AU,UK,1.36,1979634,ESPN2,AU@UK10-09-2010
+10/16/2010,USC @ UK,South Carolina-Kentucky10-16-2010,South Carolina,Kentucky,SCAR,UK,1.08,1518175,ESPN2,SCAR@UK10-16-2010
+9/26/2009,FLA @ UK,Florida-Kentucky09-26-2009,Florida,Kentucky,UF,UK,2.59,2.12,ESPN2,UF@UK09-26-2009
+11/15/2008,VU @ UK,Vanderbilt-Kentucky11-15-2008,Vanderbilt,Kentucky,VANDY,UK,0.88,1.09,ESPN2,VANDY@UK11-15-2008
+10/7/2006,USC @ UK,South Carolina-Kentucky10-07-2006,South Carolina,Kentucky,SCAR,UK,0.92,1,ESPN2,SCAR@UK10-07-2006
+8/31/2003,Louisville @ Kentucky,Louisville-Kentucky08-31-2003,Louisville,Kentucky,LOU,UK,1.56,N/A,ESPN2,LOU@UK08-31-2003
+11/1/2003,Arkansas @ Kentucky,Arkansas-Kentucky11-01-2003,Arkansas,Kentucky,AR,UK,1.42,1.06,ESPN2,AR@UK11-01-2003
+10/12/2002,S. Carolina @ Kentucky,South Carolina-Kentucky10-12-2002,South Carolina,Kentucky,SCAR,UK,0.93,0.75,ESPN2,SCAR@UK10-12-2002
+9/1/2018,Central Michigan @ Kentucky,Central Michigan-Kentucky09-01-2018,Central Michigan,Kentucky,CMU,UK,N/A,339684,ESPNU,CMU@UK09-01-2018
+9/13/2014,Ohio @ UK,Ohio-Kentucky09-13-2014,Ohio,Kentucky,OHIO,UK,0.4,537293,ESPNU,OHIO@UK09-13-2014
+9/3/2016,Southern Miss @ Kentucky,Southern Mississippi-Kentucky09-03-2016,Southern Mississippi,Kentucky,USM,UK,0.2,408592,ESPNU,USM@UK09-03-2016
+9/28/2013,UF @ UK,Florida-Kentucky09-28-2013,Florida,Kentucky,UF,UK,0.5,949814,ESPNU,UF@UK09-28-2013
+11/9/2013,MZ @ UK,Missouri-Kentucky11-09-2013,Missouri,Kentucky,MIZZU,UK,0.4,451966,ESPNU,MIZZU@UK11-09-2013
+11/30/2013,UT @ UK,Tennessee-Kentucky11-30-2013,Tennessee,Kentucky,TENN,UK,0.4,607392,ESPNU,TENN@UK11-30-2013
+9/15/2012,Western KY @ UK,Western Kentucky-Kentucky09-15-2012,Western Kentucky,Kentucky,WKU,UK,0.3,312150,ESPNU,WKU@UK09-15-2012
+11/3/2012,VU @ UK,Vanderbilt-Kentucky11-03-2012,Vanderbilt,Kentucky,VANDY,UK,0.2,224238,ESPNU,VANDY@UK11-03-2012
+9/10/2011,Central Mich. @ KY,Central Michigan-Kentucky09-10-2011,Central Michigan,Kentucky,CMU,UK,0.3,331151,ESPNU,CMU@UK09-10-2011
+9/17/2011,Louisville @ UK,Louisville-Kentucky09-17-2011,Louisville,Kentucky,LOU,UK,0.5,603222,ESPNU,LOU@UK09-17-2011
+10/22/2011,Jack State @ KY,Jacksonville State-Kentucky10-22-2011,Jacksonville State,Kentucky,JSU,UK,0.2,213053,ESPNU,JSU@UK10-22-2011
+8/30/2008,MSU @ LA Tech (2),Mississippi State-Louisiana Tech08-30-2008,Mississippi State,Louisiana Tech,MS,LATECH,0.69,0.6375,ESPN2,MS@LATECH08-30-2008
+10/13/2012,TAMU @ La Tech,Texas A&M-Louisiana Tech10-13-2012,Texas A&M,Louisiana Tech,TAMU,LATECH,0.4,444956,ESPNU,TAMU@LATECH10-13-2012
+11/26/2016,Kentucky @ Lousiville,Kentucky-Louisville11-26-2016,Kentucky,Louisville,UK,LOU,0.9,1116576,ESPN,UK@LOU11-26-2016
+9/1/2012,UK @ Louisville,Kentucky-Louisville09-01-2012,Kentucky,Louisville,UK,LOU,1.7,2409311,ESPN,UK@LOU09-01-2012
+9/3/2009,UK @ Louisville (ABC),Kentucky-Louisville09-03-2009,Kentucky,Louisville,UK,LOU,2.7,3165339,ABC,UK@LOU09-03-2009
+9/9/2009,UK @ Louisville,Kentucky-Louisville09-09-2009,Kentucky,Louisville,UK,LOU,1.9,N/A,ESPN,UK@LOU09-09-2009
+9/4/2006,UK @ Louisville,Kentucky-Louisville09-04-2006,Kentucky,Louisville,UK,LOU,1.84,N/A,ESPN,UK@LOU09-04-2006
+9/5/2004,Kentucky @ Louisville,Kentucky-Louisville09-05-2004,Kentucky,Louisville,UK,LOU,1.69,N/A,ESPN,UK@LOU09-05-2004
+11/29/2014,Kentucky @ Louisville,Kentucky-Louisville11-29-2014,Kentucky,Louisville,UK,LOU,0.5,808584,ESPN2,UK@LOU11-29-2014
+9/1/2002,Kentucky @ Louisville,Kentucky-Louisville09-01-2002,Kentucky,Louisville,UK,LOU,1.6,0.93,ESPN2,UK@LOU09-01-2002
+10/13/2018,Georgia @ LSU,Georgia-LSU10-13-2018,Georgia,LSU,UGA,LSU,3.3,5620000,CBS,UGA@LSU10-13-2018
+11/3/2018,Alabama @ LSU ,Alabama-LSU11-03-2018,Alabama,LSU,UA,LSU,6.6,11710000,CBS,UA@LSU11-03-2018
+9/2/2017,BYU @ LSU,BYU-LSU09-02-2017,BYU,LSU,BYU,LSU,N/A,1817285,ESPN,BYU@LSU09-02-2017
+10/14/2017,Auburn @ LSU,Auburn-LSU10-14-2017,Auburn,LSU,AU,LSU,2.3,3610000,CBS,AU@LSU10-14-2017
+11/5/2016,Alabama @ LSU,Alabama-LSU11-05-2016,Alabama,LSU,UA,LSU,5.8,10400000,CBS,UA@LSU11-05-2016
+9/19/2015,Auburn @ LSU,Auburn-LSU09-19-2015,Auburn,LSU,AU,LSU,2.6,4228000,CBS,AU@LSU09-19-2015
+11/8/2014,Alabama @ LSU,Alabama-LSU11-08-2014,Alabama,LSU,UA,LSU,5.3,9109000,CBS,UA@LSU11-08-2014
+10/12/2013,FLA @ LSU,Florida-LSU10-12-2013,Florida,LSU,UF,LSU,3.1,5023000,CBS,UF@LSU10-12-2013
+11/23/2013,TAMU @ LSU,Texas A&M-LSU11-23-2013,Texas A&M,LSU,TAMU,LSU,4.7,7505000,CBS,TAMU@LSU11-23-2013
+11/29/2013,ARK @ LSU,Arkansas-LSU11-29-2013,Arkansas,LSU,AR,LSU,3.1,4959000,CBS,AR@LSU11-29-2013
+11/3/2012,ALA @ LSU,Alabama-LSU11-03-2012,Alabama,LSU,UA,LSU,6.8,11350000,CBS,UA@LSU11-03-2012
+10/8/2011,FLA @ LSU,Florida-LSU10-08-2011,Florida,LSU,UF,LSU,3.2,4900000,CBS,UF@LSU10-08-2011
+10/22/2011,AUB @ LSU,Auburn-LSU10-22-2011,Auburn,LSU,AU,LSU,3.6,5620000,CBS,AU@LSU10-22-2011
+11/26/2011,ARK @ LSU ,Arkansas-LSU11-26-2011,Arkansas,LSU,AR,LSU,6.3,10440000,CBS,AR@LSU11-26-2011
+12/3/2011,UGA vs. LSU,Georgia-LSU12-03-2011,Georgia,LSU,UGA,LSU,7.3,12020000,CBS,UGA@LSU12-03-2011
+10/2/2010,UT @ LSU,Tennessee-LSU10-02-2010,Tennessee,LSU,TENN,LSU,2.6,4089000,CBS,TENN@LSU10-02-2010
+11/6/2010,ALA @ LSU,Alabama-LSU11-06-2010,Alabama,LSU,UA,LSU,4.4,7210000,CBS,UA@LSU11-06-2010
+10/3/2015,E. Michigan @ LSU,E. Michigan-LSU10-03-2015,E. Michigan,LSU,EMU,LSU,0.4,762519,ESPNU,EMU@LSU10-03-2015
+10/10/2009,FLA @ LSU,Florida-LSU10-10-2009,Florida,LSU,UF,LSU,6.1,N/A,CBS,UF@LSU10-10-2009
+10/25/2008,UGA @ LSU,Georgia-LSU10-25-2008,Georgia,LSU,UGA,LSU,3,N/A,CBS,UGA@LSU10-25-2008
+11/8/2008,ALA @ LSU,Alabama-LSU11-08-2008,Alabama,LSU,UA,LSU,5.1,N/A,CBS,UA@LSU11-08-2008
+9/22/2007,USC @ LSU,South Carolina-LSU09-22-2007,South Carolina,LSU,SCAR,LSU,2.6,N/A,CBS,SCAR@LSU09-22-2007
+10/6/2007,FLA @ LSU,Florida-LSU10-06-2007,Florida,LSU,UF,LSU,5.3,N/A,CBS,UF@LSU10-06-2007
+11/23/2007,ARK @ LSU,Arkansas-LSU11-23-2007,Arkansas,LSU,AR,LSU,5,N/A,CBS,AR@LSU11-23-2007
+10/15/2005,UF @ LSU,Florida-LSU10-15-2005,Florida,LSU,UF,LSU,1.9,N/A,CBS,UF@LSU10-15-2005
+11/25/2005,ARK @ LSU,Arkansas-LSU11-25-2005,Arkansas,LSU,AR,LSU,2.7,N/A,CBS,AR@LSU11-25-2005
+12/3/2005,UGA VS. LSU,Georgia-LSU12-03-2005,Georgia,LSU,UGA,LSU,4,N/A,CBS,UGA@LSU12-03-2005
+9/20/2003,Georgia @ LSU,Georgia-LSU09-20-2003,Georgia,LSU,UGA,LSU,3.5,N/A,CBS,UGA@LSU09-20-2003
+10/11/2003,Florida @ LSU,Florida-LSU10-11-2003,Florida,LSU,UF,LSU,2.6,N/A,CBS,UF@LSU10-11-2003
+9/13/2014,LSUM @ LSU,Louisiana-Monroe-LSU09-13-2014,Louisiana-Monroe,LSU,ULM,LSU,0.4,709457,ESPNU,ULM@LSU09-13-2014
+11/28/2003,Arkansas @ LSU,Arkansas-LSU11-28-2003,Arkansas,LSU,AR,LSU,2.9,N/A,CBS,AR@LSU11-28-2003
+12/6/2003,Georgia vs. LSU,Georgia-LSU12-06-2003,Georgia,LSU,UGA,LSU,4.1,N/A,CBS,UGA@LSU12-06-2003
+10/6/2001,Florida @ LSU,Florida-LSU10-06-2001,Florida,LSU,UF,LSU,2.6,N/A,CBS,UF@LSU10-06-2001
+11/23/2001,Arkansas @ LSU,Arkansas-LSU11-23-2001,Arkansas,LSU,AR,LSU,2.1,N/A,CBS,AR@LSU11-23-2001
+9/2/2018,Miami @ LSU [ABC],Miami (FL)-LSU09-02-2018,Miami (FL),LSU,MIAMI,LSU,N/A,6647153,ABC,MIAMI@LSU09-02-2018
+10/20/2018,Mississippi State @ LSU,Mississippi State-LSU10-20-2018,Mississippi State,LSU,MS,LSU,N/A,3106053,ESPN,MS@LSU10-20-2018
+11/11/2017,Arkansas @ LSU,Arkansas-LSU11-11-2017,Arkansas,LSU,AR,LSU,N/A,2032011,ESPN,AR@LSU11-11-2017
+9/29/2018,Ole Miss @ LSU,Mississippi (Ole Miss)-LSU09-29-2018,Mississippi (Ole Miss),LSU,OM,LSU,N/A,2023273,ESPN,OM@LSU09-29-2018
+10/22/2016,Ole Miss @ LSU,Mississippi (Ole Miss)-LSU10-22-2016,Mississippi (Ole Miss),LSU,OM,LSU,1.6,2669255,ESPN,OM@LSU10-22-2016
+10/17/2015,Florida @ LSU,Florida-LSU10-17-2015,Florida,LSU,UF,LSU,3.9,6777355,ESPN,UF@LSU10-17-2015
+11/14/2015,Arkansas @ LSU,Arkansas-LSU11-14-2015,Arkansas,LSU,AR,LSU,2.2,3638391,ESPN,AR@LSU11-14-2015
+8/30/2014,Wisconsin vs. LSU,Wisconsin-LSU08-30-2014,Wisconsin,LSU,WIS,LSU,2.8,4677567,ESPN,WIS@LSU08-30-2014
+9/20/2014,Miss St @ LSU,Mississippi State-LSU09-20-2014,Mississippi State,LSU,MS,LSU,2.1,3471675,ESPN,MS@LSU09-20-2014
+9/21/2013,AUB @ LSU,Auburn-LSU09-21-2013,Auburn,LSU,AU,LSU,2.2,3799407,ESPN,AU@LSU09-21-2013
+9/8/2012,Washington @ LSU,Washington-LSU09-08-2012,Washington,LSU,WASH,LSU,2.1,2882799,ESPN,WASH@LSU09-08-2012
+10/13/2012,USC @ LSU,South Carolina-LSU10-13-2012,South Carolina,LSU,SCAR,LSU,4.3,5978289,ESPN,SCAR@LSU10-13-2012
+11/10/2012,MSU @ LSU,Mississippi State-LSU11-10-2012,Mississippi State,LSU,MS,LSU,1.9,2555301,ESPN,MS@LSU11-10-2012
+10/25/2014,Ole Miss @ LSU,Mississippi (Ole Miss)-LSU10-25-2014,Mississippi (Ole Miss),LSU,OM,LSU,3,4951944,ESPN,OM@LSU10-25-2014
+9/3/2011,Oregon @ LSU (ABC),Oregon-LSU09-03-2011,Oregon,LSU,OREGON,LSU,4.6,7750648,ABC,OREGON@LSU09-03-2011
+11/28/2009,ARK @ LSU,Arkansas-LSU11-28-2009,Arkansas,LSU,AR,LSU,2.61,N/A,ESPN,AR@LSU11-28-2009
+9/8/2007,VA Tech @ LSU,Virginia Tech-LSU09-08-2007,Virginia Tech,LSU,VT,LSU,2.96,N/A,ESPN,VT@LSU09-08-2007
+10/20/2007,AUB @ LSU,Auburn-LSU10-20-2007,Auburn,LSU,AU,LSU,3.73,N/A,ESPN,AU@LSU10-20-2007
+11/17/2012,UM @ LSU,Mississippi (Ole Miss)-LSU11-17-2012,Mississippi (Ole Miss),LSU,OM,LSU,2.5,3740000,CBS,OM@LSU11-17-2012
+11/11/2006,ALA @ LSU,Alabama-LSU11-11-2006,Alabama,LSU,UA,LSU,2.39,N/A,ESPN,UA@LSU11-11-2006
+9/10/2005,AZ State @ LSU,Arizona State-LSU09-10-2005,Arizona State,LSU,AZSTU,LSU,1.45,N/A,ESPN,AZSTU@LSU09-10-2005
+10/22/2005,AU @ LSU,Auburn-LSU10-22-2005,Auburn,LSU,AU,LSU,2.62,N/A,ESPN,AU@LSU10-22-2005
+11/13/2004,Alabama @ LSU,Alabama-LSU11-13-2004,Alabama,LSU,UA,LSU,2.49,N/A,ESPN,UA@LSU11-13-2004
+10/25/2003,Auburn @ LSU,Auburn-LSU10-25-2003,Auburn,LSU,AU,LSU,1.25,N/A,ESPN,AU@LSU10-25-2003
+11/16/2002,Alabama @ LSU,Alabama-LSU11-16-2002,Alabama,LSU,UA,LSU,2.57,N/A,ESPN,UA@LSU11-16-2002
+11/20/2010,UM @ LSU,Mississippi (Ole Miss)-LSU11-20-2010,Mississippi (Ole Miss),LSU,OM,LSU,3.2,5020000,CBS,OM@LSU11-20-2010
+12/1/2001,Auburn @ LSU,Auburn-LSU12-01-2001,Auburn,LSU,AU,LSU,1.65,N/A,ESPN,AU@LSU12-01-2001
+9/23/2017,Syracuse @ LSU,Syracuse-LSU09-23-2017,Syracuse,LSU,SU,LSU,N/A,1094930,ESPN2,SU@LSU09-23-2017
+9/17/2016,Miss State @ LSU,Mississippi State-LSU09-17-2016,Mississippi State,LSU,MS,LSU,0.7,1190801,ESPN2,MS@LSU09-17-2016
+11/22/2008,UM @ LSU,Mississippi (Ole Miss)-LSU11-22-2008,Mississippi (Ole Miss),LSU,OM,LSU,2.3,N/A,CBS,OM@LSU11-22-2008
+9/25/2010,WVU @ LSU,West Virginia-LSU09-25-2010,West Virginia,LSU,WVU,LSU,1.74,2518086,ESPN2,WVU@LSU09-25-2010
+11/23/2002,Ole Miss @ LSU,Mississippi (Ole Miss)-LSU11-23-2002,Mississippi (Ole Miss),LSU,OM,LSU,1.4,1.09,ESPN2,OM@LSU11-23-2002
+10/24/2009,AUB @ LSU,Auburn-LSU10-24-2009,Auburn,LSU,AU,LSU,1.38,1.12,ESPN2,AU@LSU10-24-2009
+9/27/2008,MSU @ LSU,Mississippi State-LSU09-27-2008,Mississippi State,LSU,MS,LSU,1.21,1.28,ESPN2,MS@LSU09-27-2008
+8/30/2008,App State @ LSU (Classic),Appalachian State-LSU08-30-2008,Appalachian State,LSU,APPST,LSU,0.54,N/A,ESPN Classic,APPST@LSU08-30-2008
+9/9/2006,AZ @ LSU,Arizona-LSU09-09-2006,Arizona,LSU,AZU,LSU,0.96,1.03,ESPN2,AZU@LSU09-09-2006
+10/21/2006,Fresno St. @ LSU,Fresno State-LSU10-21-2006,Fresno State,LSU,FRESNO,LSU,1.19,1.03,ESPN2,FRESNO@LSU10-21-2006
+9/26/2005,UT @ LSU,Tennessee-LSU09-26-2005,Tennessee,LSU,TENN,LSU,3.1,1.65,ESPN2,TENN@LSU09-26-2005
+10/27/2001,Ole Miss @ LSU,Mississippi (Ole Miss)-LSU10-27-2001,Mississippi (Ole Miss),LSU,OM,LSU,1.54,N/A,ESPN2,OM@LSU10-27-2001
+10/19/2002,S. Carolina @ LSU,South Carolina-LSU10-19-2002,South Carolina,LSU,SCAR,LSU,1.01,1.01,ESPN2,SCAR@LSU10-19-2002
+9/4/2004,Oregon St. @ LSU,Oregon State-LSU09-04-2004,Oregon State,LSU,ORSTATEU,LSU,3.29,N/A,ESPN,ORSTATEU@LSU09-04-2004
+9/22/2018,Louisiana Tech @ LSU,Louisiana Tech-LSU09-22-2018,Louisiana Tech,LSU,LATECH,LSU,N/A,630543,ESPNU,LATECH@LSU09-22-2018
+11/17/2018,Rice @ LSU,Rice-LSU11-17-2018,Rice,LSU,RICE,LSU,N/A,453779,ESPNU,RICE@LSU11-17-2018
+9/30/2017,Troy @ LSU,Troy-LSU09-30-2017,Troy,LSU,TROY,LSU,N/A,896215,ESPNU,TROY@LSU09-30-2017
+9/8/2018,SELA @ LSU,SELA-LSU09-08-2018,SELA,LSU,SELAU,LSU,N/A,857857,ESPN2,SELAU@LSU09-08-2018
+9/10/2016,Jacksonville St @ LSU,Jacksonville State-LSU09-10-2016,Jacksonville State,LSU,JSU,LSU,0.4,800118,ESPNU,JSU@LSU09-10-2016
+10/24/2015,W Kentucky @ LSU,Western Kentucky-LSU10-24-2015,Western Kentucky,LSU,WKU,LSU,0.7,1247151,ESPNU,WKU@LSU10-24-2015
+9/7/2013,UAB @ LSU,UAB-LSU09-07-2013,UAB,LSU,UAB,LSU,0.4,659206,ESPNU,UAB@LSU09-07-2013
+9/14/2013,Kent State @ LSU,Kent State-LSU09-14-2013,Kent State,LSU,KENT,LSU,0.3,601371,ESPNU,KENT@LSU09-14-2013
+9/1/2012,North Texas @ LSU,North Texas-LSU09-01-2012,North Texas,LSU,UNT,LSU,0.4,446997,ESPNU,UNT@LSU09-01-2012
+9/29/2012,Towson @ LSU,Towson-LSU09-29-2012,Towson,LSU,TOWSON,LSU,0.7,706387,ESPNU,TOWSON@LSU09-29-2012
+11/12/2011,Western KY @ LSU,Western Kentucky-LSU11-12-2011,Western Kentucky,LSU,WKU,LSU,0.9,931414,ESPNU,WKU@LSU11-12-2011
+10/17/2015,Ole Miss @ Memphis,Mississippi (Ole Miss)-Memphis10-17-2015,Mississippi (Ole Miss),Memphis,OM,MEM,2.3,3310625,ESPN2,OM@MEM10-17-2015
+9/30/2006,UT @ MEM,Tennessee-Memphis09-30-2006,Tennessee,Memphis,TENN,MEM,1.68,N/A,ESPN,TENN@MEM09-30-2006
+9/6/2009,UM @ Mem,Mississippi (Ole Miss)-Memphis09-06-2009,Mississippi (Ole Miss),Memphis,OM,MEM,1.7,N/A,ESPN,OM@MEM09-06-2009
+9/5/2005,UM @ Memphis,Mississippi (Ole Miss)-Memphis09-05-2005,Mississippi (Ole Miss),Memphis,OM,MEM,1.43,N/A,ESPN,OM@MEM09-05-2005
+9/6/2003,Ole Miss @ Memphis,Mississippi (Ole Miss)-Memphis09-06-2003,Mississippi (Ole Miss),Memphis,OM,MEM,0.66,1.04,ESPN2,OM@MEM09-06-2003
+9/7/2013,UF @ Miami,Florida-Miami (FL)09-07-2013,Florida,Miami (FL),UF,MIAMI,3.1,4596297,ESPN,UF@MIAMI09-07-2013
+9/2/2006,VU @ Michigan,Vanderbilt-Michigan09-02-2006,Vanderbilt,Michigan,VANDY,MICH,3,N/A,ESPN,VANDY@MICH09-02-2006
+9/17/2016,Alabama @ Ole Miss,Alabama-Mississippi (Ole Miss)09-17-2016,Alabama,Mississippi (Ole Miss),UA,OM,5,8200000,CBS,UA@OM09-17-2016
+11/7/2015,Arkansas @ Ole Miss,Arkansas-Mississippi (Ole Miss)11-07-2015,Arkansas,Mississippi (Ole Miss),AR,OM,2,2979000,CBS,AR@OM11-07-2015
+11/21/2015,LSU @ Ole Miss,LSU-Mississippi (Ole Miss)11-21-2015,LSU,Mississippi (Ole Miss),LSU,OM,2.1,3189000,CBS,LSU@OM11-21-2015
+10/4/2014,Alabama @ Ole Miss,Alabama-Mississippi (Ole Miss)10-04-2014,Alabama,Mississippi (Ole Miss),UA,OM,3.7,5923000,CBS,UA@OM10-04-2014
+9/3/2011,BYU @ UM,BYU-Mississippi (Ole Miss)09-03-2011,BYU,Mississippi (Ole Miss),BYU,OM,1.7,2278134,ESPN,BYU@OM09-03-2011
+11/29/2014,Miss St. @ Ole Miss,Mississippi State-Mississippi (Ole Miss)11-29-2014,Mississippi State,Mississippi (Ole Miss),MS,OM,3.1,N/A,CBS,MS@OM11-29-2014
+10/10/2009,ALA @ UM,Alabama-Mississippi (Ole Miss)10-10-2009,Alabama,Mississippi (Ole Miss),UA,OM,3.1,N/A,CBS,UA@OM10-10-2009
+11/14/2009,UT @ UM,Tennessee-Mississippi (Ole Miss)11-14-2009,Tennessee,Mississippi (Ole Miss),TENN,OM,2.2,N/A,CBS,TENN@OM11-14-2009
+11/21/2009,LSU @ UM,LSU-Mississippi (Ole Miss)11-21-2009,LSU,Mississippi (Ole Miss),LSU,OM,2.9,N/A,CBS,LSU@OM11-21-2009
+11/17/2007,LSU @ UM,LSU-Mississippi (Ole Miss)11-17-2007,LSU,Mississippi (Ole Miss),LSU,OM,2.6,N/A,CBS,LSU@OM11-17-2007
+10/15/2005,ALA @ UM,Alabama-Mississippi (Ole Miss)10-15-2005,Alabama,Mississippi (Ole Miss),UA,OM,2,N/A,CBS,UA@OM10-15-2005
+11/22/2003,LSU @ Ole Miss,LSU-Mississippi (Ole Miss)11-22-2003,LSU,Mississippi (Ole Miss),LSU,OM,3.2,N/A,CBS,LSU@OM11-22-2003
+10/5/2002,Florida @ Ole Miss,Florida-Mississippi (Ole Miss)10-05-2002,Florida,Mississippi (Ole Miss),UF,OM,2.6,N/A,CBS,UF@OM10-05-2002
+9/15/2018,Alabama @ Ole Miss,Alabama-Mississippi (Ole Miss)09-15-2018,Alabama,Mississippi (Ole Miss),UA,OM,N/A,4109351,ESPN,UA@OM09-15-2018
+10/20/2018,Auburn @ Ole Miss,Auburn-Mississippi (Ole Miss)10-20-2018,Auburn,Mississippi (Ole Miss),AU,OM,N/A,2211264,ESPN,AU@OM10-20-2018
+11/22/2018,Mississippi State @ Ole Miss,Mississippi State-Mississippi (Ole Miss)11-22-2018,Mississippi State,Mississippi (Ole Miss),MS,OM,N/A,1120352,ESPN,MS@OM11-22-2018
+10/21/2017,LSU @ Ole Miss,LSU-Mississippi (Ole Miss)10-21-2017,LSU,Mississippi (Ole Miss),LSU,OM,N/A,1891030,ESPN,LSU@OM10-21-2017
+9/24/2016,Georgia @ Ole Miss,Georgia-Mississippi (Ole Miss)09-24-2016,Georgia,Mississippi (Ole Miss),UGA,OM,1.7,2696159,ESPN,UGA@OM09-24-2016
+10/24/2015,Texas A&M @ Ole Miss,Texas A&M-Mississippi (Ole Miss)10-24-2015,Texas A&M,Mississippi (Ole Miss),TAMU,OM,1.8,2774764,ESPN,TAMU@OM10-24-2015
+8/28/2014,Boise St. vs Ole Miss,Boise State-Mississippi (Ole Miss)08-28-2014,Boise State,Mississippi (Ole Miss),BSU,OM,1.5,2418471,ESPN,BSU@OM08-28-2014
+10/18/2014,Tenn @ Ole Miss,Tennessee-Mississippi (Ole Miss)10-18-2014,Tennessee,Mississippi (Ole Miss),TENN,OM,1.6,2698773,ESPN,TENN@OM10-18-2014
+11/1/2014,Auburn @ Ole Miss,Auburn-Mississippi (Ole Miss)11-01-2014,Auburn,Mississippi (Ole Miss),AU,OM,3.4,5797407,ESPN,AU@OM11-01-2014
+10/12/2013,TAMU @ UM,Texas A&M-Mississippi (Ole Miss)10-12-2013,Texas A&M,Mississippi (Ole Miss),TAMU,OM,3.2,3669791,ESPN,TAMU@OM10-12-2013
+11/23/2013,MZ @ UM,Missouri-Mississippi (Ole Miss)11-23-2013,Missouri,Mississippi (Ole Miss),MIZZU,OM,1.5,2421202,ESPN,MIZZU@OM11-23-2013
+9/15/2012,Texas @ UM,Texas-Mississippi (Ole Miss)09-15-2012,Texas,Mississippi (Ole Miss),UTX,OM,1.8,2411528,ESPN,UTX@OM09-15-2012
+11/19/2011,LSU @ UM,LSU-Mississippi (Ole Miss)11-19-2011,LSU,Mississippi (Ole Miss),LSU,OM,1.9,2755797,ESPN,LSU@OM11-19-2011
+9/3/2006,Mem @ UM,Memphis-Mississippi (Ole Miss)09-03-2006,Memphis,Mississippi (Ole Miss),MEM,OM,1.6,N/A,ESPN,MEM@OM09-03-2006
+10/30/2004,Auburn @ Ole Miss,Auburn-Mississippi (Ole Miss)10-30-2004,Auburn,Mississippi (Ole Miss),AU,OM,1.86,N/A,ESPN,AU@OM10-30-2004
+11/28/2002,Miss. State @ Ole Miss,Mississippi State-Mississippi (Ole Miss)11-28-2002,Mississippi State,Mississippi (Ole Miss),MS,OM,1.76,N/A,ESPN,MS@OM11-28-2002
+11/18/2017,Texas A&M @ Ole Miss,Texas A&M-Mississippi (Ole Miss)11-18-2017,Texas A&M,Mississippi (Ole Miss),TAMU,OM,N/A,1516056,ESPN2,TAMU@OM11-18-2017
+10/1/2016,Memphis @ Ole Miss,Memphis-Mississippi (Ole Miss)10-01-2016,Memphis,Mississippi (Ole Miss),MEM,OM,0.3,566079,ESPN2,MEM@OM10-01-2016
+9/12/2015,Fresno St @ Ole Miss,Fresno State-Mississippi (Ole Miss)09-12-2015,Fresno State,Mississippi (Ole Miss),FRESNO,OM,0.4,629579,ESPN2,FRESNO@OM09-12-2015
+10/19/2013,LSU @ UM,LSU-Mississippi (Ole Miss)10-19-2013,LSU,Mississippi (Ole Miss),LSU,OM,0.8,2598077,ESPN2,LSU@OM10-19-2013
+10/15/2011,ALA @ UM,Alabama-Mississippi (Ole Miss)10-15-2011,Alabama,Mississippi (Ole Miss),UA,OM,1.4,2028634,ESPN2,UA@OM10-15-2011
+10/30/2010,AUB @ UM,Auburn-Mississippi (Ole Miss)10-30-2010,Auburn,Mississippi (Ole Miss),AU,OM,1.8,2510450,ESPN2,AU@OM10-30-2010
+9/30/2006,UGA @ UM,Georgia-Mississippi (Ole Miss)09-30-2006,Georgia,Mississippi (Ole Miss),UGA,OM,1.62,1.22,ESPN2,UGA@OM09-30-2006
+11/19/2005,LSU @ UM,LSU-Mississippi (Ole Miss)11-19-2005,LSU,Mississippi (Ole Miss),LSU,OM,1.35,0.8,ESPN2,LSU@OM11-19-2005
+10/16/2004,Tennessee @ Ole Miss,Tennessee-Mississippi (Ole Miss)10-16-2004,Tennessee,Mississippi (Ole Miss),TENN,OM,1.56,1.44,ESPN2,TENN@OM10-16-2004
+10/25/2003,Arkansas @ Ole Miss,Arkansas-Mississippi (Ole Miss)10-25-2003,Arkansas,Mississippi (Ole Miss),AR,OM,0.97,0.83,ESPN2,AR@OM10-25-2003
+11/3/2001,Arkansas @ Ole Miss,Arkansas-Mississippi (Ole Miss)11-03-2001,Arkansas,Mississippi (Ole Miss),AR,OM,1.31,0.77,ESPN2,AR@OM11-03-2001
+9/2/2017,South Alabama @ Ole Miss,South Alabama-Mississippi (Ole Miss)09-02-2017,South Alabama,Mississippi (Ole Miss),USAL,OM,N/A,168033,ESPNU,USAL@OM09-02-2017
+11/5/2016,Ga. Southern @ Ole Miss,Georgia Southern-Mississippi (Ole Miss)11-05-2016,Georgia Southern,Mississippi (Ole Miss),GAS,OM,0.1,209456,ESPNU,GAS@OM11-05-2016
+9/26/2015,Vanderbilt @ Ole Miss,Vanderbilt-Mississippi (Ole Miss)09-26-2015,Vanderbilt,Mississippi (Ole Miss),VANDY,OM,0.3,498988,ESPNU,VANDY@OM09-26-2015
+11/16/2013,Troy @ UM,Troy-Mississippi (Ole Miss)11-16-2013,Troy,Mississippi (Ole Miss),TROY,OM,0.2,271169,ESPNU,TROY@OM11-16-2013
+10/6/2012,TAMU @ UM,Texas A&M-Mississippi (Ole Miss)10-06-2012,Texas A&M,Mississippi (Ole Miss),TAMU,OM,0.5,491841,ESPNU,TAMU@OM10-06-2012
+11/10/2012,VU @ UM,Vanderbilt-Mississippi (Ole Miss)11-10-2012,Vanderbilt,Mississippi (Ole Miss),VANDY,OM,0.2,218636,ESPNU,VANDY@OM11-10-2012
+11/24/2012,MSU @ UM,Mississippi State-Mississippi (Ole Miss)11-24-2012,Mississippi State,Mississippi (Ole Miss),MS,OM,0.4,502011,ESPNU,MS@OM11-24-2012
+11/14/2015,Alabama @ Mississippi St,Alabama-Mississippi State11-14-2015,Alabama,Mississippi State,UA,MS,3.4,5403000,CBS,UA@MS11-14-2015
+10/11/2014,Auburn @ Miss State,Auburn-Mississippi State10-11-2014,Auburn,Mississippi State,AU,MS,3.8,5996000,CBS,AU@MS10-11-2014
+12/1/2001,BYU @ Miss. State,BYU-Mississippi State12-01-2001,BYU,Mississippi State,BYU,MS,0.84,N/A,ESPN2,BYU@MS12-01-2001
+9/15/2018,Louisiana @ Mississippi State (Moved from SECN to E2),#REF!,Louisiana-Lafayette,Mississippi State,ULLAF,MS,N/A,260602,ESPN2,ULLAF@MS09-15-2018
+11/5/2005,ALA @ MSU,Alabama-Mississippi State11-05-2005,Alabama,Mississippi State,UA,MS,1.9,N/A,CBS,UA@MS11-05-2005
+9/29/2018,Florida @ Mississippi State,Florida-Mississippi State09-29-2018,Florida,Mississippi State,UF,MS,N/A,1903389,ESPN,UF@MS09-29-2018
+10/27/2018,Texas A&M vs. Mississippi State,Texas A&M-Mississippi State10-27-2018,Texas A&M,Mississippi State,TAMU,MS,N/A,2178292,ESPN,TAMU@MS10-27-2018
+11/17/2018,Arkansas @ Mississippi State,Arkansas-Mississippi State11-17-2018,Arkansas,Mississippi State,AR,MS,N/A,1036212,ESPN,AR@MS11-17-2018
+9/16/2017,LSU @ Mississippi State,LSU-Mississippi State09-16-2017,LSU,Mississippi State,LSU,MS,N/A,2580958,ESPN,LSU@MS09-16-2017
+10/20/2012,MTSU @ MSU,Middle Tennessee State-Mississippi State10-20-2012,Middle Tennessee State,Mississippi State,MTSU,MS,0.4,470644,ESPN2,MTSU@MS10-20-2012
+11/11/2017,Alabama @ Mississippi State,Alabama-Mississippi State11-11-2017,Alabama,Mississippi State,UA,MS,N/A,7031111,ESPN,UA@MS11-11-2017
+10/8/2016,Auburn @ Miss State,Auburn-Mississippi State10-08-2016,Auburn,Mississippi State,AU,MS,1.2,1918231,ESPN,AU@MS10-08-2016
+11/23/2017,Ole Miss @ Mississippi State,Mississippi (Ole Miss)-Mississippi State11-23-2017,Mississippi (Ole Miss),Mississippi State,OM,MS,N/A,2467643,ESPN,OM@MS11-23-2017
+9/12/2015,LSU @ Miss State,LSU-Mississippi State09-12-2015,LSU,Mississippi State,LSU,MS,1.9,3121067,ESPN,LSU@MS09-12-2015
+10/4/2014,Texas A&M @ MSU,Texas A&M-Mississippi State10-04-2014,Texas A&M,Mississippi State,TAMU,MS,2.6,4101207,ESPN,TAMU@MS10-04-2014
+11/27/2015,Ole Miss @ Miss St,Mississippi (Ole Miss)-Mississippi State11-27-2015,Mississippi (Ole Miss),Mississippi State,OM,MS,0.5,929685,ESPN2,OM@MS11-27-2015
+10/5/2013,LSU @ MSU,LSU-Mississippi State10-05-2013,LSU,Mississippi State,LSU,MS,1.3,2240337,ESPN,LSU@MS10-05-2013
+10/24/2013,UK @ MSU,Kentucky-Mississippi State10-24-2013,Kentucky,Mississippi State,UK,MS,0.9,1034183,ESPN,UK@MS10-24-2013
+11/16/2013,ALA @ MSU,Alabama-Mississippi State11-16-2013,Alabama,Mississippi State,UA,MS,2.7,4493333,ESPN,UA@MS11-16-2013
+9/8/2012,AUB @ MSU,Auburn-Mississippi State09-08-2012,Auburn,Mississippi State,AU,MS,2,2449541,ESPN,AU@MS09-08-2012
+11/3/2012,TAMU @ MSU,Texas A&M-Mississippi State11-03-2012,Texas A&M,Mississippi State,TAMU,MS,1.5,1926284,ESPN,TAMU@MS11-03-2012
+9/17/2011,LSU @ MSU,LSU-Mississippi State09-17-2011,LSU,Mississippi State,LSU,MS,4.7,6250345,ESPN,LSU@MS09-17-2011
+11/12/2011,ALA @ MSU,Alabama-Mississippi State11-12-2011,Alabama,Mississippi State,UA,MS,2,2856828,ESPN,UA@MS11-12-2011
+9/9/2010,AUB @ MSU,Auburn-Mississippi State09-09-2010,Auburn,Mississippi State,AU,MS,2.01,2806865,ESPN,AU@MS09-09-2010
+11/20/2010,ARK @ MSU,Arkansas-Mississippi State11-20-2010,Arkansas,Mississippi State,AR,MS,2.29,3208723,ESPN,AR@MS11-20-2010
+10/24/2009,FLA @ MSU,Florida-Mississippi State10-24-2009,Florida,Mississippi State,UF,MS,3.97,N/A,ESPN,UF@MS10-24-2009
+11/14/2009,ALA @ MSU,Alabama-Mississippi State11-14-2009,Alabama,Mississippi State,UA,MS,2.5,N/A,ESPN,UA@MS11-14-2009
+11/28/2013,UM @ MSU,Mississippi (Ole Miss)-Mississippi State11-28-2013,Mississippi (Ole Miss),Mississippi State,OM,MS,0.9,1641321,ESPN,OM@MS11-28-2013
+8/30/2007,LSU @ MSU,LSU-Mississippi State08-30-2007,LSU,Mississippi State,LSU,MS,2.36,N/A,ESPN,LSU@MS08-30-2007
+8/31/2006,USC @ MSU,South Carolina-Mississippi State08-31-2006,South Carolina,Mississippi State,SCAR,MS,2.22,N/A,ESPN,SCAR@MS08-31-2006
+9/24/2005,UGA @ MSU,Georgia-Mississippi State09-24-2005,Georgia,Mississippi State,UGA,MS,1.74,N/A,ESPN,UGA@MS09-24-2005
+11/26/2011,UM  @ MSU,Mississippi (Ole Miss)-Mississippi State11-26-2011,Mississippi (Ole Miss),Mississippi State,OM,MS,0.3,409911,ESPNU,OM@MS11-26-2011
+9/19/2002,Auburn @ Miss. State,Auburn-Mississippi State09-19-2002,Auburn,Mississippi State,AU,MS,2.27,N/A,ESPN,AU@MS09-19-2002
+9/20/2001,S. Carolina @ Miss. State,South Carolina-Mississippi State09-20-2001,South Carolina,Mississippi State,SCAR,MS,2.05,N/A,ESPN,SCAR@MS09-20-2001
+10/6/2018,Auburn @ Mississippi State,Auburn-Mississippi State10-06-2018,Auburn,Mississippi State,AU,MS,N/A,1528083,ESPN2,AU@MS10-06-2018
+9/10/2016,South Carolina @ Miss State,South Carolina-Mississippi State09-10-2016,South Carolina,Mississippi State,SCAR,MS,0.8,1426235,ESPN2,SCAR@MS09-10-2016
+11/1/2014,Arkansas @ MSU,Arkansas-Mississippi State11-01-2014,Arkansas,Mississippi State,AR,MS,1.4,2294850,ESPN2,AR@MS11-01-2014
+10/13/2012,UT @ MSU,Tennessee-Mississippi State10-13-2012,Tennessee,Mississippi State,TENN,MS,0.8,1059321,ESPN2,TENN@MS10-13-2012
+11/27/2003,Ole Miss @ Miss. State,Mississippi (Ole Miss)-Mississippi State11-27-2003,Mississippi (Ole Miss),Mississippi State,OM,MS,2.03,N/A,ESPN,OM@MS11-27-2003
+9/13/2008,AUB @ MSU,Auburn-Mississippi State09-13-2008,Auburn,Mississippi State,AU,MS,1.12,1.38,ESPN2,AU@MS09-13-2008
+11/22/2001,Ole Miss @ Miss. State,Mississippi (Ole Miss)-Mississippi State11-22-2001,Mississippi (Ole Miss),Mississippi State,OM,MS,1.95,N/A,ESPN,OM@MS11-22-2001
+9/4/2004,Tulane @ Miss. State,Tulane-Mississippi State09-04-2004,Tulane,Mississippi State,TLN,MS,0.63,1.06,ESPN2,TLN@MS09-04-2004
+8/30/2003,Oregon @ Miss. State,Oregon-Mississippi State08-30-2003,Oregon,Mississippi State,OREGON,MS,0.72,N/A,ESPN2,OREGON@MS08-30-2003
+9/27/2003,LSU @ Miss. State,LSU-Mississippi State09-27-2003,LSU,Mississippi State,LSU,MS,1.01,1.17,ESPN2,LSU@MS09-27-2003
+9/3/2001,Memphis @ Miss. State,Memphis-Mississippi State09-03-2001,Memphis,Mississippi State,MEM,MS,1.67,N/A,ESPN2,MEM@MS09-03-2001
+10/20/2001,LSU @ Miss. State,LSU-Mississippi State10-20-2001,LSU,Mississippi State,LSU,MS,0.72,0.84,ESPN2,LSU@MS10-20-2001
+9/1/2018,SFA @ Mississippi State,SFA-Mississippi State09-01-2018,SFA,Mississippi State,SFA,MS,N/A,182712,ESPNU,SFA@MS09-01-2018
+11/19/2016,Arkansas @ Mississippi St,Arkansas-Mississippi State11-19-2016,Arkansas,Mississippi State,AR,MS,0.4,463816,ESPNU,AR@MS11-19-2016
+9/24/2011,La Tech @ MSU,Louisiana Tech-Mississippi State09-24-2011,Louisiana Tech,Mississippi State,LATECH,MS,0.3,285331,ESPNU,LATECH@MS09-24-2011
+11/23/2018,Arkansas @ Missouri,Arkansas-Missouri11-23-2018,Arkansas,Missouri,AR,MIZZU,1.2,1860000,CBS,AR@MIZZU11-23-2018
+11/25/2016,Arkansas @ Missouri,Arkansas-Missouri11-25-2016,Arkansas,Missouri,AR,MIZZU,1.5,2500000,CBS,AR@MIZZU11-25-2016
+10/11/2014,Georgia @ Missouri,Georgia-Missouri10-11-2014,Georgia,Missouri,UGA,MIZZU,2,2991000,CBS,UGA@MIZZU10-11-2014
+12/7/2014,Alabama vs Missouri ,Alabama-Missouri12-07-2014,Alabama,Missouri,UA,MIZZU,7.8,N/A,CBS,UA@MIZZU12-07-2014
+10/13/2012,ALA @ MIZ,Alabama-Missouri10-13-2012,Alabama,Missouri,UA,MIZZU,2.3,3590000,CBS,UA@MIZZU10-13-2012
+9/22/2018,Georgia @ Missouri,Georgia-Missouri09-22-2018,Georgia,Missouri,UGA,MIZZU,N/A,3328322,ESPN,UGA@MIZZU09-22-2018
+9/19/2015,Connecticut @ Missouri,Connecticut-Missouri09-19-2015,Connecticut,Missouri,UCONN,MIZZU,1.3,1902662,ESPN,UCONN@MIZZU09-19-2015
+11/5/2015,Mississippi St @ Missouri,Mississippi State-Missouri11-05-2015,Mississippi State,Missouri,MS,MIZZU,0.8,1088973,ESPN,MS@MIZZU11-05-2015
+11/2/2013,UT @ MZ,Tennessee-Missouri11-02-2013,Tennessee,Missouri,TENN,MIZZU,1.4,2279414,ESPN,TENN@MIZZU11-02-2013
+12/7/2013,TAMU @ MZ,Texas A&M-Missouri12-07-2013,Texas A&M,Missouri,TAMU,MIZZU,3.4,5714867,ESPN,TAMU@MIZZU12-07-2013
+9/9/2017,South Carolina @ Missouri,South Carolina-Missouri09-09-2017,South Carolina,Missouri,SCAR,MIZZU,N/A,834460,ESPN2,SCAR@MIZZU09-09-2017
+11/4/2017,Florida @ Missouri,Florida-Missouri11-04-2017,Florida,Missouri,UF,MIZZU,N/A,793275,ESPN2,UF@MIZZU11-04-2017
+11/21/2015,Tennessee @ Missouri,Tennessee-Missouri11-21-2015,Tennessee,Missouri,TENN,MIZZU,0.8,1347884,ESPN2,TENN@MIZZU11-21-2015
+10/26/2013,USC @ MZ,South Carolina-Missouri10-26-2013,South Carolina,Missouri,SCAR,MIZZU,1.8,2100684,ESPN2,SCAR@MIZZU10-26-2013
+9/8/2012,UGA @ MIZ,Georgia-Missouri09-08-2012,Georgia,Missouri,UGA,MIZZU,2.8,4118849,ESPN2,UGA@MIZZU09-08-2012
+9/15/2012,Arizona St @ MIZ,Arizona State-Missouri09-15-2012,Arizona State,Missouri,AZSTU,MIZZU,0.8,1192151,ESPN2,AZSTU@MIZZU09-15-2012
+8/30/2014,SD State @ Missouri,San Diego State-Missouri08-30-2014,San Diego State,Missouri,SDSU,MIZZU,0.2,372524,ESPNU,SDSU@MIZZU08-30-2014
+9/8/2018,Wyoming @ Missouri,Wyoming-Missouri09-08-2018,Wyoming,Missouri,WY,MIZZU,N/A,242567,ESPNU,WY@MIZZU09-08-2018
+9/23/2017,Auburn @Missouri,Auburn-Missouri09-23-2017,Auburn,Missouri,AU,MIZZU,N/A,526548,ESPNU,AU@MIZZU09-23-2017
+9/7/2013,Toledo @ MIZ,Toledo-Missouri09-07-2013,Toledo,Missouri,TOLEDO,MIZZU,0.2,325649,ESPNU,TOLEDO@MIZZU09-07-2013
+10/27/2012,UK @ MIZ,Kentucky-Missouri10-27-2012,Kentucky,Missouri,UK,MIZZU,0.5,445397,ESPNU,UK@MIZZU10-27-2012
+11/17/2012,Syracuse @ MIZ,Syracuse-Missouri11-17-2012,Syracuse,Missouri,SU,MIZZU,0.4,447941,ESPNU,SU@MIZZU11-17-2012
+9/3/2009,USC @ NC State,South Carolina-NC State09-03-2009,South Carolina,NC State,SCAR,NCST,2.4,N/A,ESPN,SCAR@NCST09-03-2009
+9/3/2016,Georgia @ N. Carolina (ESPN),Georgia-North Carolina09-03-2016,Georgia,North Carolina,UGA,UNC,1.9,3528585,ESPN,UGA@UNC09-03-2016
+9/5/2009,LSU vs UNC (ABC),LSU-North Carolina09-05-2009,LSU,North Carolina,LSU,UNC,2.68,3104551,ABC,LSU@UNC09-05-2009
+9/5/2009,UGA @ OK State,Georgia-Oklahoma State09-05-2009,Georgia,Oklahoma State,UGA,OKSTU,3.5,N/A,ESPN,UGA@OKSTU09-05-2009
+8/31/2013,MSU @ OK State,Mississippi State-Oklahoma State08-31-2013,Mississippi State,Oklahoma State,MS,OKSTU,2.4,3665292,ESPN2,MS@OKSTU08-31-2013
+9/14/2013,UT @ Oregon (ABC),Tennessee-Oregon09-14-2013,Tennessee,Oregon,TENN,OREGON,2,3163676,ABC,TENN@OREGON09-14-2013
+9/3/2011,ALA @ Penn State (ABC),Alabama-Penn State09-03-2011,Alabama,Penn State,UA,PSU,3.9,6084245,ABC,UA@PSU09-03-2011
+9/21/2013,ARK @ Rutgers,Arkansas-Rutgers09-21-2013,Arkansas,Rutgers,AR,RUTG,1.1,1615524,ESPN,AR@RUTG09-21-2013
+9/8/2018,Georgia @ South Carolina,Georgia-South Carolina09-08-2018,Georgia,South Carolina,UGA,SCAR,2.3,3780000,CBS,UGA@SCAR09-08-2018
+11/11/2017,Florida @ South Carolina,Florida-South Carolina11-11-2017,Florida,South Carolina,UF,SCAR,1.5,2400000,CBS,UF@SCAR11-11-2017
+9/13/2014,Georgia @ S. Carolia,Georgia-South Carolina09-13-2014,Georgia,South Carolina,UGA,SCAR,4.1,6770000,CBS,UGA@SCAR09-13-2014
+9/22/2012,MIZ @ USC,Missouri-South Carolina09-22-2012,Missouri,South Carolina,MIZZU,SCAR,2.5,3850000,CBS,MIZZU@SCAR09-22-2012
+11/10/2012,ARK @ USC,Arkansas-South Carolina11-10-2012,Arkansas,South Carolina,AR,SCAR,1.8,2750000,CBS,AR@SCAR11-10-2012
+9/1/2005,Central Fla. @ USC,Central Florida-South Carolina09-01-2005,Central Florida,South Carolina,UCF,SCAR,1.61,N/A,ESPN,UCF@SCAR09-01-2005
+10/1/2011,AUB @ USC,Auburn-South Carolina10-01-2011,Auburn,South Carolina,AU,SCAR,3.2,4810000,CBS,AU@SCAR10-01-2011
+11/12/2011,FLA @ USC,Florida-South Carolina11-12-2011,Florida,South Carolina,UF,SCAR,1.7,2620000,CBS,UF@SCAR11-12-2011
+10/9/2010,ALA @ USC,Alabama-South Carolina10-09-2010,Alabama,South Carolina,UA,SCAR,4.8,7600000,CBS,UA@SCAR10-09-2010
+11/14/2009,FLA @ USC,Florida-South Carolina11-14-2009,Florida,South Carolina,UF,SCAR,4,N/A,CBS,UF@SCAR11-14-2009
+9/13/2008,UGA @ USC,Georgia-South Carolina09-13-2008,Georgia,South Carolina,UGA,SCAR,2.9,N/A,CBS,UGA@SCAR09-13-2008
+9/17/2005,ALA @ USC,Alabama-South Carolina09-17-2005,Alabama,South Carolina,UA,SCAR,1.8,N/A,CBS,UA@SCAR09-17-2005
+9/14/2002,Georgia @ S. Carolina,Georgia-South Carolina09-14-2002,Georgia,South Carolina,UGA,SCAR,2.2,N/A,CBS,UGA@SCAR09-14-2002
+11/2/2002,Tennessee @ S. Carolina,Tennessee-South Carolina11-02-2002,Tennessee,South Carolina,TENN,SCAR,1.9,N/A,CBS,TENN@SCAR11-02-2002
+11/25/2017,Clemson @ South Carolina,Clemson-South Carolina11-25-2017,Clemson,South Carolina,CU,SCAR,N/A,4032389,ESPN,CU@SCAR11-25-2017
+9/3/2015,N. Carolina @ S. Carolina,North Carolina-South Carolina09-03-2015,North Carolina,South Carolina,UNC,SCAR,2.2,3601461,ESPN,UNC@SCAR09-03-2015
+10/10/2015,LSU @ South Carolina,LSU-South Carolina10-10-2015,LSU,South Carolina,LSU,SCAR,1.7,2599556,ESPN,LSU@SCAR10-10-2015
+11/14/2015,Florida @ South Carolina,Florida-South Carolina11-14-2015,Florida,South Carolina,UF,SCAR,1.2,1736708,ESPN,UF@SCAR11-14-2015
+11/27/2015,Clemson @ S. Carolina,Clemson-South Carolina11-27-2015,Clemson,South Carolina,CU,SCAR,1.8,2085119,ESPN,CU@SCAR11-27-2015
+9/27/2014,Missouri @ S. Carolina,Missouri-South Carolina09-27-2014,Missouri,South Carolina,MIZZU,SCAR,1.9,3383591,ESPN,MIZZU@SCAR09-27-2014
+8/29/2013,UNC vs. USC,North Carolina-South Carolina08-29-2013,North Carolina,South Carolina,UNC,SCAR,2.4,3652676,ESPN,UNC@SCAR08-29-2013
+9/14/2013,VU @ USC,Vanderbilt-South Carolina09-14-2013,Vanderbilt,South Carolina,VANDY,SCAR,1.2,1884063,ESPN,VANDY@SCAR09-14-2013
+10/6/2012,UGA @ USC,Georgia-South Carolina10-06-2012,Georgia,South Carolina,UGA,SCAR,2.7,4014576,ESPN,UGA@SCAR10-06-2012
+10/27/2012,UT @ USC,Tennessee-South Carolina10-27-2012,Tennessee,South Carolina,TENN,SCAR,3,3891648,ESPN,TENN@SCAR10-27-2012
+11/26/2011,Clemson @ USC,Clemson-South Carolina11-26-2011,Clemson,South Carolina,CU,SCAR,2.2,3091076,ESPN,CU@SCAR11-26-2011
+11/6/2010,ARK @ USC,Arkansas-South Carolina11-06-2010,Arkansas,South Carolina,AR,SCAR,2.68,3964653,ESPN,AR@SCAR11-06-2010
+11/28/2009,Clemson @ USC,Clemson-South Carolina11-28-2009,Clemson,South Carolina,CU,SCAR,2.52,N/A,ESPN,CU@SCAR11-28-2009
+10/18/2008,LSU  @ USC,LSU-South Carolina10-18-2008,LSU,South Carolina,LSU,SCAR,2.59,N/A,ESPN,LSU@SCAR10-18-2008
+10/4/2007,UK @ USC,Kentucky-South Carolina10-04-2007,Kentucky,South Carolina,UK,SCAR,2.66,N/A,ESPN,UK@SCAR10-04-2007
+11/10/2007,FLA @ USC,Florida-South Carolina11-10-2007,Florida,South Carolina,UF,SCAR,2.65,N/A,ESPN,UF@SCAR11-10-2007
+9/9/2006,UGA @ USC,Georgia-South Carolina09-09-2006,Georgia,South Carolina,UGA,SCAR,1.69,N/A,ESPN,UGA@SCAR09-09-2006
+9/28/2006,AU @ USC,Auburn-South Carolina09-28-2006,Auburn,South Carolina,AU,SCAR,3.36,N/A,ESPN,AU@SCAR09-28-2006
+10/28/2006,UT @ USC,Tennessee-South Carolina10-28-2006,Tennessee,South Carolina,TENN,SCAR,3.12,N/A,ESPN,TENN@SCAR10-28-2006
+11/4/2006,ARK @ USC,Arkansas-South Carolina11-04-2006,Arkansas,South Carolina,AR,SCAR,1.9,N/A,ESPN,AR@SCAR11-04-2006
+9/11/2004,Georgia @ S. Carolina,Georgia-South Carolina09-11-2004,Georgia,South Carolina,UGA,SCAR,2.49,N/A,ESPN,UGA@SCAR09-11-2004
+10/9/2003,Kentucky @ S. Carolina,Kentucky-South Carolina10-09-2003,Kentucky,South Carolina,UK,SCAR,1.89,N/A,ESPN,UK@SCAR10-09-2003
+11/10/2001,Florida @ S. Carolina,Florida-South Carolina11-10-2001,Florida,South Carolina,UF,SCAR,2.89,N/A,ESPN,UF@SCAR11-10-2001
+9/24/2009,UM @ USC,Mississippi (Ole Miss)-South Carolina09-24-2009,Mississippi (Ole Miss),South Carolina,OM,SCAR,3.66,N/A,ESPN,OM@SCAR09-24-2009
+10/29/2016,Tennessee @ S Carolina,Tennessee-South Carolina10-29-2016,Tennessee,South Carolina,TENN,SCAR,0.9,1518822,ESPN2,TENN@SCAR10-29-2016
+11/16/2013,FLA @ USC,Florida-South Carolina11-16-2013,Florida,South Carolina,UF,SCAR,1.3,2314164,ESPN2,UF@SCAR11-16-2013
+11/30/2013,Clemson @ USC,Clemson-South Carolina11-30-2013,Clemson,South Carolina,CU,SCAR,1.6,3135286,ESPN2,CU@SCAR11-30-2013
+9/24/2011,VU @ USC,Vanderbilt-South Carolina09-24-2011,Vanderbilt,South Carolina,VANDY,SCAR,1,1368297,ESPN2,VANDY@SCAR09-24-2011
+9/11/2010,UGA @ USC,Georgia-South Carolina09-11-2010,Georgia,South Carolina,UGA,SCAR,2.59,3490269,ESPN2,UGA@SCAR09-11-2010
+11/1/2008,UT @ USC,Tennessee-South Carolina11-01-2008,Tennessee,South Carolina,TENN,SCAR,1.37,0.93,ESPN2,TENN@SCAR11-01-2008
+11/24/2007,CLEM @ USC,Clemson-South Carolina11-24-2007,Clemson,South Carolina,CU,SCAR,1.19,1.68,ESPN2,CU@SCAR11-24-2007
+11/19/2005,Clemson @ USC,Clemson-South Carolina11-19-2005,Clemson,South Carolina,CU,SCAR,N/A,N/A,ESPN2,CU@SCAR11-19-2005
+11/22/2003,Clemson @ S. Carolina,Clemson-South Carolina11-22-2003,Clemson,South Carolina,CU,SCAR,0.82,0.78,ESPN2,CU@SCAR11-22-2003
+9/17/2011,Navy @ USC,Navy-South Carolina09-17-2011,Navy,South Carolina,NAVY,SCAR,1.2,1617876,ESPN2,NAVY@SCAR09-17-2011
+9/2/2017,NC State @ South Carolina,NC State - North Carolina State-South Carolina09-02-2017,NC State - North Carolina State,South Carolina,NCST,SCAR,N/A,1610946,ESPN,NCST@SCAR09-02-2017
+8/28/2008,NC State @ USC,NC State - North Carolina State-South Carolina08-28-2008,NC State - North Carolina State,South Carolina,NCST,SCAR,1.81,N/A,ESPN,NCST@SCAR08-28-2008
+9/6/2014,ECU @ USC,East Carolina-South Carolina09-06-2014,East Carolina,South Carolina,ECU,SCAR,0.5,976432,ESPNU,ECU@SCAR09-06-2014
+9/2/2010,USM @ USC,Southern Mississippi-South Carolina09-02-2010,Southern Mississippi,South Carolina,USM,SCAR,1.88,2509826,ESPN,USM@SCAR09-02-2010
+9/26/2015,UCF @ S. Carolina,UCF-South Carolina09-26-2015,UCF,South Carolina,UCF,SCAR,0.3,379727,ESPNU,UCF@SCAR09-26-2015
+9/20/2014,Texas A&M @ SMU,Texas A&M-Southern  Methodist09-20-2014,Texas A&M,Southern  Methodist,TAMU,SMU,1.8,2841428,ESPN2,TAMU@SMU09-20-2014
+9/26/2015,LSU @ Syracuse,LSU-Syracuse09-26-2015,LSU,Syracuse,LSU,SU,2.1,3203791,ESPN,LSU@SU09-26-2015
+9/22/2001,Auburn @ Syracuse,Auburn-Syracuse09-22-2001,Auburn,Syracuse,AU,SU,1.5,N/A,ESPN,AU@SU09-22-2001
+9/10/2016,Arkansas @ TCU (ESPN),Arkansas-TCU09-10-2016,Arkansas,TCU,AR,TCU,1.5,2470462,ESPN,AR@TCU09-10-2016
+8/31/2013,LSU @ TCU,LSU-TCU08-31-2013,LSU,TCU,LSU,TCU,1.9,3171944,ESPN,LSU@TCU08-31-2013
+9/1/2018,West Virginia @ Tennessee,West Virginia-Tennessee09-01-2018,West Virginia,Tennessee,WVU,TENN,1.6,2680000,CBS,WVU@TENN09-01-2018
+10/20/2018,Alabama @ Tennessee,Alabama-Tennessee10-20-2018,Alabama,Tennessee,UA,TENN,2.6,4360000,CBS,UA@TENN10-20-2018
+11/17/2018,Missouri @ Tennessee,Missouri-Tennessee11-17-2018,Missouri,Tennessee,MIZZU,TENN,1.3,2030000,CBS,MIZZU@TENN11-17-2018
+9/30/2017,Georgia @ Tennessee,Georgia-Tennessee09-30-2017,Georgia,Tennessee,UGA,TENN,2.4,3970000,CBS,UGA@TENN09-30-2017
+9/24/2016,Florida @ Tennessee,Florida-Tennessee09-24-2016,Florida,Tennessee,UF,TENN,3.4,5540000,CBS,UF@TENN09-24-2016
+10/15/2016,Alabama @ Tennessee,Alabama-Tennessee10-15-2016,Alabama,Tennessee,UA,TENN,3.9,6600000,CBS,UA@TENN10-15-2016
+11/19/2016,Missouri @ Tennessee,Missouri-Tennessee11-19-2016,Missouri,Tennessee,MIZZU,TENN,1.5,2500000,CBS,MIZZU@TENN11-19-2016
+10/10/2015,Georgia @ Tennessee,Georgia-Tennessee10-10-2015,Georgia,Tennessee,UGA,TENN,3,4884000,CBS,UGA@TENN10-10-2015
+10/5/2013,UGA @ UT,Georgia-Tennessee10-05-2013,Georgia,Tennessee,UGA,TENN,3.5,5641000,CBS,UGA@TENN10-05-2013
+10/15/2011,LSU @ UT,LSU-Tennessee10-15-2011,LSU,Tennessee,LSU,TENN,2.8,4450000,CBS,LSU@TENN10-15-2011
+9/18/2010,FLA @ UT,Florida-Tennessee09-18-2010,Florida,Tennessee,UF,TENN,3.3,5152000,CBS,UF@TENN09-18-2010
+9/10/2011,Cincinnati @ UT,Cincinnati-Tennessee09-10-2011,Cincinnati,Tennessee,CINCY,TENN,0.7,915429,ESPN2,CINCY@TENN09-10-2011
+9/20/2008,FLA @ UT,Florida-Tennessee09-20-2008,Florida,Tennessee,UF,TENN,2.7,N/A,CBS,UF@TENN09-20-2008
+10/6/2007,UGA @ UT,Georgia-Tennessee10-06-2007,Georgia,Tennessee,UGA,TENN,2.2,N/A,CBS,UGA@TENN10-06-2007
+12/1/2007,LSU vs. UT,LSU-Tennessee12-01-2007,LSU,Tennessee,LSU,TENN,5.9,N/A,CBS,LSU@TENN12-01-2007
+9/16/2006,UF @ UT,Florida-Tennessee09-16-2006,Florida,Tennessee,UF,TENN,3.7,N/A,CBS,UF@TENN09-16-2006
+10/21/2006,AL @ UT,Alabama-Tennessee10-21-2006,Alabama,Tennessee,UA,TENN,2.7,N/A,CBS,UA@TENN10-21-2006
+11/4/2006,LSU @ UT,LSU-Tennessee11-04-2006,LSU,Tennessee,LSU,TENN,3.9,N/A,CBS,LSU@TENN11-04-2006
+10/8/2005,UGA @ UT,Georgia-Tennessee10-08-2005,Georgia,Tennessee,UGA,TENN,3.6,N/A,CBS,UGA@TENN10-08-2005
+9/18/2004,Florida @ Tennessee,Florida-Tennessee09-18-2004,Florida,Tennessee,UF,TENN,4.2,N/A,CBS,UF@TENN09-18-2004
+10/23/2004,Alabama @ Tennessee,Alabama-Tennessee10-23-2004,Alabama,Tennessee,UA,TENN,2.6,N/A,CBS,UA@TENN10-23-2004
+11/6/2004,Notre Dame @ Tennessee,Notre Dame-Tennessee11-06-2004,Notre Dame,Tennessee,ND,TENN,3.4,N/A,CBS,ND@TENN11-06-2004
+9/21/2002,Florida @ Tennessee,Florida-Tennessee09-21-2002,Florida,Tennessee,UF,TENN,3.5,N/A,CBS,UF@TENN09-21-2002
+9/6/2003,Marshall @ Tennessee,Marshall-Tennessee09-06-2003,Marshall,Tennessee,MARSH,TENN,1.45,1.04,ESPN2,MARSH@TENN09-06-2003
+10/6/2001,Georgia @ Tennessee,Georgia-Tennessee10-06-2001,Georgia,Tennessee,UGA,TENN,2.6,N/A,CBS,UGA@TENN10-06-2001
+11/24/2001,Vanderbilt @ Tennessee,Vanderbilt-Tennessee11-24-2001,Vanderbilt,Tennessee,VANDY,TENN,1.9,N/A,CBS,VANDY@TENN11-24-2001
+12/8/2001,LSU vs. Tennessee,LSU-Tennessee12-08-2001,LSU,Tennessee,LSU,TENN,7.9,N/A,CBS,LSU@TENN12-08-2001
+9/22/2018,Florida @ Tennessee,Florida-Tennessee09-22-2018,Florida,Tennessee,UF,TENN,N/A,2107767,ESPN,UF@TENN09-22-2018
+11/9/2002,Miami @ Tennessee,Miami (OH)-Tennessee11-09-2002,Miami (OH),Tennessee,MUOHIO,TENN,2.7,N/A,CBS,MUOHIO@TENN11-09-2002
+10/14/2017,South Carolina @ Tennessee,South Carolina-Tennessee10-14-2017,South Carolina,Tennessee,SCAR,TENN,N/A,2532445,ESPN,SCAR@TENN10-14-2017
+11/18/2017,LSU @ Tennessee,LSU-Tennessee11-18-2017,LSU,Tennessee,LSU,TENN,N/A,2945998,ESPN,LSU@TENN11-18-2017
+9/10/2016,Virginia Tech @ Tennessee (ABC),Virginia Tech-Tennessee09-10-2016,Virginia Tech,Tennessee,VT,TENN,3.4,5789643,ABC,VT@TENN09-10-2016
+9/12/2015,Oklahoma @ Tennessee,Oklahoma-Tennessee09-12-2015,Oklahoma,Tennessee,OU,TENN,2.4,4129111,ESPN,OU@TENN09-12-2015
+11/22/2014,Missouri @ Tennessee,Missouri-Tennessee11-22-2014,Missouri,Tennessee,MIZZU,TENN,1.9,3318393,ESPN,MIZZU@TENN11-22-2014
+10/19/2013,USC @ UT,South Carolina-Tennessee10-19-2013,South Carolina,Tennessee,SCAR,TENN,2.3,3370957,ESPN,SCAR@TENN10-19-2013
+11/9/2013,AU @ UT,Auburn-Tennessee11-09-2013,Auburn,Tennessee,AU,TENN,1.8,2765873,ESPN,AU@TENN11-09-2013
+9/15/2012,UF @ UT,Florida-Tennessee09-15-2012,Florida,Tennessee,UF,TENN,3.6,5076469,ESPN,UF@TENN09-15-2012
+10/20/2012,ALA @ UT,Alabama-Tennessee10-20-2012,Alabama,Tennessee,UA,TENN,3,4222875,ESPN,UA@TENN10-20-2012
+10/23/2010,ALA @ UT,Alabama-Tennessee10-23-2010,Alabama,Tennessee,UA,TENN,2.92,4370822,ESPN,UA@TENN10-23-2010
+9/12/2009,UCLA @ UT,UCLA-Tennessee09-12-2009,UCLA,Tennessee,UCLA,TENN,2.21,N/A,ESPN,UCLA@TENN09-12-2009
+10/3/2009,AUB @ UT,Auburn-Tennessee10-03-2009,Auburn,Tennessee,AU,TENN,2.4,N/A,ESPN,AU@TENN10-03-2009
+10/31/2009,USC @ UT,South Carolina-Tennessee10-31-2009,South Carolina,Tennessee,SCAR,TENN,1.72,N/A,ESPN,SCAR@TENN10-31-2009
+10/25/2008,ALA @ UT,Alabama-Tennessee10-25-2008,Alabama,Tennessee,UA,TENN,2.81,N/A,ESPN,UA@TENN10-25-2008
+10/27/2007,USC @ UT,South Carolina-Tennessee10-27-2007,South Carolina,Tennessee,SCAR,TENN,2.2,N/A,ESPN,SCAR@TENN10-27-2007
+9/2/2006,Cal @ UT,California-Tennessee09-02-2006,California,Tennessee,CAL,TENN,2.3,N/A,ESPN,CAL@TENN09-02-2006
+10/2/2004,Auburn @ Tennessee,Auburn-Tennessee10-02-2004,Auburn,Tennessee,AU,TENN,2.82,N/A,ESPN,AU@TENN10-02-2004
+9/27/2003,S. Carolina @ Tennessee,South Carolina-Tennessee09-27-2003,South Carolina,Tennessee,SCAR,TENN,2.7,N/A,ESPN,SCAR@TENN09-27-2003
+10/5/2002,Arkansas @ Tennessee,Arkansas-Tennessee10-05-2002,Arkansas,Tennessee,AR,TENN,2.41,N/A,ESPN,AR@TENN10-05-2002
+10/26/2002,Alabama @ Tennessee,Alabama-Tennessee10-26-2002,Alabama,Tennessee,UA,TENN,2.27,N/A,ESPN,UA@TENN10-26-2002
+9/29/2001,LSU @ Tennessee,LSU-Tennessee09-29-2001,LSU,Tennessee,LSU,TENN,2.66,N/A,ESPN,LSU@TENN09-29-2001
+11/13/2010,UM @ UT,Mississippi (Ole Miss)-Tennessee11-13-2010,Mississippi (Ole Miss),Tennessee,OM,TENN,1.8,2840000,CBS,OM@TENN11-13-2010
+10/3/2015,Arkansas @ Tennessee,Arkansas-Tennessee10-03-2015,Arkansas,Tennessee,AR,TENN,1.2,2290865,ESPN2,AR@TENN10-03-2015
+10/25/2014,Alabama @ Tenn,Alabama-Tennessee10-25-2014,Alabama,Tennessee,UA,TENN,1.5,2589285,ESPN2,UA@TENN10-25-2014
+11/23/2013,VU @ UT,Vanderbilt-Tennessee11-23-2013,Vanderbilt,Tennessee,VANDY,TENN,0.8,1456081,ESPN2,VANDY@TENN11-23-2013
+10/8/2011,UGA @ UT,Georgia-Tennessee10-08-2011,Georgia,Tennessee,UGA,TENN,1.7,2412354,ESPN2,UGA@TENN10-08-2011
+10/29/2011,USC @ UT,South Carolina-Tennessee10-29-2011,South Carolina,Tennessee,SCAR,TENN,1.5,1985196,ESPN2,SCAR@TENN10-29-2011
+9/11/2010,Oregon @ Tennessee,Oregon-Tennessee09-11-2010,Oregon,Tennessee,OREGON,TENN,1.83,2708576,ESPN2,OREGON@TENN09-11-2010
+11/29/2008,UK @ UT,Kentucky-Tennessee11-29-2008,Kentucky,Tennessee,UK,TENN,1.42,1.05,ESPN2,UK@TENN11-29-2008
+10/29/2005,USC @ UT,South Carolina-Tennessee10-29-2005,South Carolina,Tennessee,SCAR,TENN,2.1,1.64,ESPN2,SCAR@TENN10-29-2005
+9/5/2004,UNLV @ Tennessee,UNLV-Tennessee09-05-2004,UNLV,Tennessee,UNLV,TENN,2.23,N/A,ESPN2,UNLV@TENN09-05-2004
+8/30/2003,Fresno St. @ Tennessee,Fresno State-Tennessee08-30-2003,Fresno State,Tennessee,FRESNO,TENN,0.85,0.92,ESPN2,FRESNO@TENN08-30-2003
+10/11/2003,Georgia @ Tennessee,Georgia-Tennessee10-11-2003,Georgia,Tennessee,UGA,TENN,1.65,0.78,ESPN2,UGA@TENN10-11-2003
+8/31/2012,NC State vs. UT,NC State - North Carolina State-Tennessee08-31-2012,NC State - North Carolina State,Tennessee,NCST,TENN,1.3,1490796,ESPNU,NCST@TENN08-31-2012
+9/1/2001,Syracuse @ Tennessee,Syracuse-Tennessee09-01-2001,Syracuse,Tennessee,SU,TENN,1.63,1.31,ESPN2,SU@TENN09-01-2001
+10/27/2001,S. Carolina @ Tennessee,South Carolina-Tennessee10-27-2001,South Carolina,Tennessee,SCAR,TENN,1.72,1.24,ESPN2,SCAR@TENN10-27-2001
+9/19/2015,West. Carolina @ Tenn,Western Carolina-Tennessee09-19-2015,Western Carolina,Tennessee,WCU,TENN,0.4,843735,ESPNU,WCU@TENN09-19-2015
+11/19/2011,VU @ UT,Vanderbilt-Tennessee11-19-2011,Vanderbilt,Tennessee,VANDY,TENN,0.8,861107,ESPNU,VANDY@TENN11-19-2011
+9/3/2016,UCLA @ Texas A&M,UCLA-Texas A&M09-03-2016,UCLA,Texas A&M,UCLA,TAMU,1.9,3100000,CBS,UCLA@TAMU09-03-2016
+10/8/2016,Tennessee @ Texas A&M,Tennessee-Texas A&M10-08-2016,Tennessee,Texas A&M,TENN,TAMU,3.9,6600000,CBS,TENN@TAMU10-08-2016
+10/17/2015,Alabama @ Texas A&M,Alabama-Texas A&M10-17-2015,Alabama,Texas A&M,UA,TAMU,3.6,5761000,CBS,UA@TAMU10-17-2015
+9/27/2014,Arkansas @ TX A&M,Arkansas-Texas A&M09-27-2014,Arkansas,Texas A&M,AR,TAMU,2.7,4375000,CBS,AR@TAMU09-27-2014
+9/14/2013,ALA @ TAMU,Alabama-Texas A&M09-14-2013,Alabama,Texas A&M,UA,TAMU,8.6,13663000,CBS,UA@TAMU09-14-2013
+10/19/2013,AUB @ TAMU,Auburn-Texas A&M10-19-2013,Auburn,Texas A&M,AU,TAMU,4.2,6728000,CBS,AU@TAMU10-19-2013
+11/9/2013,MSU @ TAMU,Mississippi State-Texas A&M11-09-2013,Mississippi State,Texas A&M,MS,TAMU,2.9,4531000,CBS,MS@TAMU11-09-2013
+9/8/2018,Clemson @ Texas A&M,Clemson-Texas A&M09-08-2018,Clemson,Texas A&M,CU,TAMU,N/A,4485656,ESPN,CU@TAMU09-08-2018
+10/6/2018,Kentucky @ Texas A&M,Kentucky-Texas A&M10-06-2018,Kentucky,Texas A&M,UK,TAMU,N/A,2547178,ESPN,UK@TAMU10-06-2018
+10/7/2017,Alabama @ Texas A&M,Alabama-Texas A&M10-07-2017,Alabama,Texas A&M,UA,TAMU,N/A,4773840,ESPN,UA@TAMU10-07-2017
+10/28/2017,Mississippi State @ Texas A&M,Mississippi State-Texas A&M10-28-2017,Mississippi State,Texas A&M,MS,TAMU,N/A,1640158,ESPN,MS@TAMU10-28-2017
+11/4/2017,Auburn @ Texas A&M,Auburn-Texas A&M11-04-2017,Auburn,Texas A&M,AU,TAMU,N/A,2631759,ESPN,AU@TAMU11-04-2017
+11/10/2018,Ole Miss @ Texas A&M,Mississippi (Ole Miss)-Texas A&M11-10-2018,Mississippi (Ole Miss),Texas A&M,OM,TAMU,1.4,2150000,CBS,OM@TAMU11-10-2018
+9/24/2016,Arkansas @ Texas A&M,Arkansas-Texas A&M09-24-2016,Arkansas,Texas A&M,AR,TAMU,2.3,3872291,ESPN,AR@TAMU09-24-2016
+11/24/2016,LSU @ Texas A&M,LSU-Texas A&M11-24-2016,LSU,Texas A&M,LSU,TAMU,1.3,1536885,ESPN,LSU@TAMU11-24-2016
+9/5/2015,Arizona State @ Texas A&M,Arizona State-Texas A&M09-05-2015,Arizona State,Texas A&M,AZSTU,TAMU,1.4,2470566,ESPN,AZSTU@TAMU09-05-2015
+11/29/2014,LSU @ Texas A&M,LSU-Texas A&M11-29-2014,LSU,Texas A&M,LSU,TAMU,1.4,2904552,ESPN,LSU@TAMU11-29-2014
+8/31/2013,Rice @ TAMU,Rice-Texas A&M08-31-2013,Rice,Texas A&M,RICE,TAMU,2.7,4207665,ESPN,RICE@TAMU08-31-2013
+9/8/2012,UF @ TAMU,Florida-Texas A&M09-08-2012,Florida,Texas A&M,UF,TAMU,3.4,4530808,ESPN,UF@TAMU09-08-2012
+10/20/2012,LSU @ TAMU,LSU-Texas A&M10-20-2012,LSU,Texas A&M,LSU,TAMU,3.2,4176499,ESPN,LSU@TAMU10-20-2012
+10/11/2014,Ole Miss @ Texas A&M,Mississippi (Ole Miss)-Texas A&M10-11-2014,Mississippi (Ole Miss),Texas A&M,OM,TAMU,2.5,4089291,ESPN,OM@TAMU10-11-2014
+10/9/2010,Ark vs TAMU,Arkansas-Texas A&M10-09-2010,Arkansas,Texas A&M,AR,TAMU,3.5,5535706,ESPN,AR@TAMU10-09-2010
+11/17/2018,UAB @ Texas A&M,UAB-Texas A&M11-17-2018,UAB,Texas A&M,UAB,TAMU,N/A,721873,ESPN2,UAB@TAMU11-17-2018
+11/24/2012,MIZ @ TAMU,Missouri-Texas A&M11-24-2012,Missouri,Texas A&M,MIZZU,TAMU,0.8,1053519,ESPN2,MIZZU@TAMU11-24-2012
+9/13/2014,Navy @ TAMU,Navy-Texas A&M09-13-2014,Navy,Texas A&M,NAVY,TAMU,0.6,955514,ESPN2,NAVY@TAMU09-13-2014
+9/9/2017,Nicholls @ Texas A&M,Nicholls-Texas A&M09-09-2017,Nicholls,Texas A&M,NICHOLLS,TAMU,N/A,367136,ESPNU,NICHOLLS@TAMU09-09-2017
+11/11/2017,New Mexico @ Texas A&M,New Mexico-Texas A&M11-11-2017,New Mexico,Texas A&M,NM,TAMU,N/A,232021,ESPNU,NM@TAMU11-11-2017
+10/29/2016,New Mexico St @ Texas A&M,New Mexico State-Texas A&M10-29-2016,New Mexico State,Texas A&M,NMSU,TAMU,0.1,193457,ESPNU,NMSU@TAMU10-29-2016
+9/12/2015,Ball State @ Texas A&M,Ball State-Texas A&M09-12-2015,Ball State,Texas A&M,BALL,TAMU,0.2,419912,ESPNU,BALL@TAMU09-12-2015
+9/21/2013,SMU @ TAMU,Southern  Methodist-Texas A&M09-21-2013,Southern  Methodist,Texas A&M,SMU,TAMU,0.5,809038,ESPNU,SMU@TAMU09-21-2013
+11/14/2015,W. Carolina @ Texas A&M,Western Carolina-Texas A&M11-14-2015,Western Carolina,Texas A&M,WCU,TAMU,0.2,296206,ESPNU,WCU@TAMU11-14-2015
+11/2/2013,UTEP @ TAMU,Texas El Paso-Texas A&M11-02-2013,Texas El Paso,Texas A&M,UTXEP,TAMU,0.7,1121147,ESPN2,UTXEP@TAMU11-02-2013
+11/19/2016,Texas San Antonio @ TAMU,Texas San Antonio-Texas A&M11-19-2016,Texas San Antonio,Texas A&M,UTXSA,TAMU,0.2,195527,ESPNU,UTXSA@TAMU11-19-2016
+9/1/2017,Ole Miss @ Texas Tech [ESPN],Mississippi (Ole Miss)-Texas Tech09-01-2017,Mississippi (Ole Miss),Texas Tech,OM,TTU,N/A,1928675,ESPN,OM@TTU09-01-2017
+9/13/2014,Arkansas @ Texas Tech,Arkansas-Texas Tech09-13-2014,Arkansas,Texas Tech,AR,TTU,2.1,3279208,ESPN,AR@TTU09-13-2014
+9/6/2014,MZ @ Toledo,Missouri-Toledo09-06-2014,Missouri,Toledo,MIZZU,TOLEDO,0.9,1229032,ESPN,MIZZU@TOLEDO09-06-2014
+9/29/2007,LSU @ Tulane,LSU-Tulane09-29-2007,LSU,Tulane,LSU,TLN,1.45,N/A,ESPN,LSU@TLN09-29-2007
+9/1/2008,UT @ UCLA,Tennessee-UCLA09-01-2008,Tennessee,UCLA,TENN,UCLA,4.77,N/A,ESPN,TENN@UCLA09-01-2008
+9/21/2013,VU @ Umass (ESPNews),Vanderbilt-Massachusetts09-21-2013,Vanderbilt,Massachusetts,VANDY,UMASS,0.1,174205,ESPNews,VANDY@UMASS09-21-2013
+9/13/2014,MSU @ USA,Mississippi State-South Alabama09-13-2014,Mississippi State,South Alabama,MS,USAL,0.1,185146,ESPN,MS@USAL09-13-2014
+9/23/2017,Alabama @ Vanderbilt,Alabama-Vanderbilt09-23-2017,Alabama,Vanderbilt,UA,VANDY,1.9,3050000,CBS,UA@VANDY09-23-2017
+9/12/2015,Georgia @ Vanderbilt,Georgia-Vanderbilt09-12-2015,Georgia,Vanderbilt,UGA,VANDY,1.7,2571000,CBS,UGA@VANDY09-12-2015
+10/19/2013,UGA @ VU,Georgia-Vanderbilt10-19-2013,Georgia,Vanderbilt,UGA,VANDY,1.5,2396000,CBS,UGA@VANDY10-19-2013
+10/13/2018,Florida @ Vanderbilt,Florida-Vanderbilt10-13-2018,Florida,Vanderbilt,UF,VANDY,N/A,2496976,ESPN,UF@VANDY10-13-2018
+10/7/2017,Georgia @ Vanderbilt,Georgia-Vanderbilt10-07-2017,Georgia,Vanderbilt,UGA,VANDY,N/A,1957783,ESPN,UGA@VANDY10-07-2017
+9/1/2016,S. Carolina @ Vanderbilt,South Carolina-Vanderbilt09-01-2016,South Carolina,Vanderbilt,SCAR,VANDY,1.2,1942045,ESPN,SCAR@VANDY09-01-2016
+8/30/2012,USC @ VU,South Carolina-Vanderbilt08-30-2012,South Carolina,Vanderbilt,SCAR,VANDY,3,4128912,ESPN,SCAR@VANDY08-30-2012
+9/6/2014,UM @ VU,Mississippi (Ole Miss)-Vanderbilt09-06-2014,Mississippi (Ole Miss),Vanderbilt,OM,VANDY,0.7,1134034,ESPN,OM@VANDY09-06-2014
+9/4/2008,USC @ VU,South Carolina-Vanderbilt09-04-2008,South Carolina,Vanderbilt,SCAR,VANDY,1.83,N/A,ESPN,SCAR@VANDY09-04-2008
+10/4/2008,AUB @ VU,Auburn-Vanderbilt10-04-2008,Auburn,Vanderbilt,AU,VANDY,1.95,N/A,ESPN,AU@VANDY10-04-2008
+8/29/2013,UM @ VU,Mississippi (Ole Miss)-Vanderbilt08-29-2013,Mississippi (Ole Miss),Vanderbilt,OM,VANDY,1.9,2740234,ESPN,OM@VANDY08-29-2013
+11/17/2012,UT @ VU,Tennessee-Vanderbilt11-17-2012,Tennessee,Vanderbilt,TENN,VANDY,0.8,1096543,ESPN2,TENN@VANDY11-17-2012
+11/8/2008,FLA @ VU,Florida-Vanderbilt11-08-2008,Florida,Vanderbilt,UF,VANDY,1.18,1.09,ESPN2,UF@VANDY11-08-2008
+10/13/2007,UGA @ VU,Georgia-Vanderbilt10-13-2007,Georgia,Vanderbilt,UGA,VANDY,0.65,0.93,ESPN2,UGA@VANDY10-13-2007
+10/8/2005,LSU @ VU,LSU-Vanderbilt10-08-2005,LSU,Vanderbilt,LSU,VANDY,1.05,0.9,ESPN2,LSU@VANDY10-08-2005
+10/15/2005,UGA @ VU,Georgia-Vanderbilt10-15-2005,Georgia,Vanderbilt,UGA,VANDY,0.82,0.6,ESPN2,UGA@VANDY10-15-2005
+9/16/2017,Kansas State @ Vanderbilt,Kansas State-Vanderbilt09-16-2017,Kansas State,Vanderbilt,KSU,VANDY,N/A,433095,ESPNU,KSU@VANDY09-16-2017
+11/4/2017,Western Kentucky @ Vanderbilt,Western Kentucky-Vanderbilt11-04-2017,Western Kentucky,Vanderbilt,WKU,VANDY,N/A,85688,ESPNU,WKU@VANDY11-04-2017
+10/22/2016,Tennessee St @ Vanderbilt,Tennessee State-Vanderbilt10-22-2016,Tennessee State,Vanderbilt,TNSTATE,VANDY,0.1,152051,ESPNU,TNSTATE@VANDY10-22-2016
+11/1/2014,Old Doninion @ Vandy,Old Dominion-Vanderbilt11-01-2014,Old Dominion,Vanderbilt,ODU,VANDY,0,63186,ESPNU,ODU@VANDY11-01-2014
+10/13/2012,UF @ VU,Florida-Vanderbilt10-13-2012,Florida,Vanderbilt,UF,VANDY,1,1120150,ESPNU,UF@VANDY10-13-2012
+10/22/2011,Army @ VU,Army-Vanderbilt10-22-2011,Army,Vanderbilt,ARMY,VANDY,0.2,174247,ESPNU,ARMY@VANDY10-22-2011
+9/7/2002,S. Carolina @ Virginia,South Carolina-Virginia09-07-2002,South Carolina,Virginia,SCAR,UVA,1.43,N/A,ESPN,SCAR@UVA09-07-2002
+8/31/2013,ALA vs. Virginia Tech,Alabama-Virginia Tech08-31-2013,Alabama,Virginia Tech,UA,VT,3,5168771,ESPN,UA@VT08-31-2013
+9/5/2009,ALA vs VA Tech,Alabama-Virginia Tech09-05-2009,Alabama,Virginia Tech,UA,VT,4.2,N/A,ESPN,UA@VT09-05-2009
+9/6/2008,Ole Miss @ Wake Forest (ABC),Mississippi (Ole Miss)-Wake Forest09-06-2008,Mississippi (Ole Miss),Wake Forest,OM,WF,2.88,N/A,ABC,OM@WF09-06-2008
+11/24/2012,VU @ Wake Forest,Vanderbilt-Wake Forest11-24-2012,Vanderbilt,Wake Forest,VANDY,WF,0.1,98635,ESPNU,VANDY@WF11-24-2012
+11/26/2011,VU @ Wake Forest,Vanderbilt-Wake Forest11-26-2011,Vanderbilt,Wake Forest,VANDY,WF,0.1,100493,ESPNU,VANDY@WF11-26-2011
+9/5/2009,LSU @ Wash,LSU-Washington09-05-2009,LSU,Washington,LSU,WASH,2.5,N/A,ESPN,LSU@WASH09-05-2009
+9/17/2011,LSU @ WVU,LSU-West Virginia09-17-2011,LSU,West Virginia,LSU,WVU,4.1,6502638,ESPN,LSU@WVU09-17-2011
+10/23/2008,AUB @ WVU,Auburn-West Virginia10-23-2008,Auburn,West Virginia,AU,WVU,2.27,N/A,ESPN,AU@WVU10-23-2008
+8/31/2013,UK @ W KY (ESPNews),Kentucky-Western Kentucky08-31-2013,Kentucky,Western Kentucky,UK,WKU,0.3,378470,ESPNews,UK@WKU08-31-2013
+9/1/2011,UK @ Western KY,Kentucky-Western Kentucky09-01-2011,Kentucky,Western Kentucky,UK,WKU,0.6,639792,ESPNU,UK@WKU09-01-2011
+9/3/2016,LSU @ Wisconsin (ABC),LSU-Wisconsin09-03-2016,LSU,Wisconsin,LSU,WIS,4.6,7831552,ABC,LSU@WIS09-03-2016
+8/31/2002,Tennessee vs. Wyoming,Tennessee-Wyoming08-31-2002,Tennessee,Wyoming,TENN,WY,1.04,0.93,ESPN2,TENN@WY08-31-2002
