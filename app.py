@@ -18,13 +18,15 @@ TV = pd.read_csv('TV_Ratings_onesheet.csv')
 DATA = GAMES.merge(TV,on='TeamIDsDate')
 
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],meta_tags=[
+                  {"name": "viewport", "content": "width=device-width, initial-scale=1"}
+                  ])
 
 
 ### creating the side bar menu
 SIDEBAR_STYLE = {
     "position": "fixed",
-    "top": 0,
+    "top": 115,
     "left": 0,
     "bottom": 0,
     "width": "16rem",
@@ -58,11 +60,22 @@ sidebar = html.Div(
 content = html.Div(id="page-content", children=[], style=CONTENT_STYLE)
 
 
-app.layout = html.Div([
-    dcc.Location(id="url"),
+app.layout = html.Div(children=[
+    ### layout for the webpage title
+    dbc.Card(
+        dbc.CardBody([
+            dbc.Row([
+        html.H1(children='College Football Team Brand Recognition',style={'textAlign': 'center'}),
+
+        html.Div(children='''
+            Cole Felix, Jake Foard, Alex Cooper, & Kevin Bellefeuil
+        ''',style={'textAlign': 'center'})])])),
+    #### Div for the sidebar and content
+    html.Div([dcc.Location(id="url"),
     sidebar,
-    content
+    content])
 ])
+
 
 ###### THIS IS THE CALLBACK FOR THE SIDE BAR MENU
 @app.callback(
