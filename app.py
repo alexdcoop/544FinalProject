@@ -9,19 +9,30 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 from dash.dependencies import Input, Output
 import pandas as pd
+from datetime import date, datetime
 
 GAMES = pd.read_csv('games_flat_xml_2012-2018.csv')
 gcolumnsWeWant = ['homename','visname','date','attend']
 GAMES = GAMES[gcolumnsWeWant]
 
 TV = pd.read_csv('TV_Ratings_onesheet.csv')
-tvcolumnsWeWant = ['Home Team', 'Visitor Team', 'VIEWERS', 'Network']
+tvcolumnsWeWant = ['Home Team', 'Visitor Team', 'Date', 'VIEWERS', 'Network']
 TV = TV[tvcolumnsWeWant]
 
 
 #Define Home team Labels for our dropdown
 gamesUHomeDict = [{'label' : tn, 'value': tn} for tn in np.unique(GAMES.homename)]
 TVUHomeDict = [{'label' : tn, 'value': tn} for tn in np.unique(TV['Home Team'])]
+
+#Get years
+GAMES['year'] = [datetime.strptime(date, '%m/%d/%Y').year for date in GAMES.date]
+gYears = np.unique(GAMES['year'])
+gDict = [{'label' : tn, 'value': tn} for tn in gYears]
+
+TV['year'] = [datetime.strptime(date, '%m/%d/%Y').year for date in TV.Date]
+tvYears = np.unique(TV['year'])
+tvDict = [{'label' : tn, 'value': tn} for tn in tvYears]
+
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],meta_tags=[
@@ -94,18 +105,28 @@ def render_page_content(pathname):
     if pathname == "/":
         ######## Place the content for stadium attendance here
         return [
+            html.H4("Home Team"),
             #Home team dropdown
             dcc.Dropdown(id='homeTeam', placeholder="Select Home Team" ,options=gamesUHomeDict),
-            html.P('STADIUM'),
+            #Year dropdown
+            html.H4('Year'),
+            dcc.RadioItems(id='year',options=gDict),
+            #GRAPH
+            dcc.Graph(id='graph'),
             #TABLE
             html.Table(id='Table',children = [],className='table table-striped')]
                 
         #### Place content for tv viewership here
     elif pathname == "/tv":
         return [
-            #Home team
+            #Home team dropdown
+            html.H4("Home Team"),
             dcc.Dropdown(id='homeTeam', placeholder="Select Home Team" ,options=TVUHomeDict),
-            html.P('TV'),
+            #Year dropdown
+            html.H4('Year'),
+            dcc.RadioItems(id='year',options=tvDict),
+            #GRAPH
+            dcc.Graph(id='graph'),
             #TABLE
             html.Table(id='Table',children = [],className='table table-striped')]
 
@@ -119,6 +140,81 @@ def update_table(value,pathname):
     #create the table
     tableChildren = create_table(value, pathname)
     return tableChildren
+
+#THIS IS THE CALLBACK FOR THE PLOT
+@app.callback(
+    Output('graph', 'figure'),
+    Input('year', 'value'),
+    Input('homeTeam', 'value'),
+    [Input("url", "pathname")]
+)
+def update_graph(year, homeTeam, pathname):
+    print("Year:",year)
+    print("HT:",homeTeam)
+    print("pn:", pathname)
+    
+    #creat the graph
+    data = create_graph(year,homeTeam, pathname)
+    
+    title = "{homeTeam} {y}".format(homeTeam = 'All teams' if homeTeam is None else homeTeam, y = 'Attendance' if pathname == '/' else 'Viewership')
+    
+    fig = dict({
+        "data": [data],
+        "layout": {"title": {"text": title}}
+    })
+    
+    return fig
+
+### creating the graph
+def create_graph(year, homeTeam, pathname):
+    #Make X and Y
+    if pathname == '/':
+        Data = GAMES
+        if year is not None:
+            #subset year
+            Data = Data[Data['year'] == year]
+        
+        if homeTeam is None:
+            #Get all
+            X=Data.date
+            Y=Data.attend
+        else:
+            #subset hometeam
+            X = Data[Data.homename == homeTeam].date
+            Y = Data[Data.homename == homeTeam].attend
+           
+    elif pathname == '/tv':
+        Data = TV
+        if year is not None:
+            #subset year
+            Data = Data[Data['year'] == year]
+        
+        if homeTeam is None:
+            #Get all
+            X=Data.Date
+            Y=Data.VIEWERS
+        else:
+            #subset hometeam
+            X = Data[Data['Home Team'] == homeTeam].Date
+            Y = Data[Data['Home Team'] == homeTeam].VIEWERS
+    else:
+        print('ERROR CREATING TABLE')
+        
+    DATA = dict(
+        type = "scatter",
+        mode = "markers",
+        x=X,
+        y=Y,
+        hovertext= Y,
+        name=homeTeam,
+        marker=dict(
+            color='rgb(255,130,0)',
+            opacity=.6,
+            size = 7    
+    ))
+    
+    return DATA
+
 
 ### creating the table
 def create_table(homeTeam, pathname):
