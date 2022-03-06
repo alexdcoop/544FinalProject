@@ -129,6 +129,10 @@ def render_page_content(pathname):
             dcc.RadioItems(id='year',options=tvDict),
             #GRAPH
             dcc.Graph(id='graph'),
+
+            #PIE CHART FOR NETWORK AND TITLE
+            html.Div([html.H4('Network Share',style={'textAlign': 'center'}),dcc.Graph(id='pie')]),
+            
             #TABLE
             html.Table(id='Table',children = [],className='table table-striped')]
 
@@ -143,7 +147,8 @@ def update_table(value,pathname):
     tableChildren = create_table(value, pathname)
     return tableChildren
 
-#THIS IS THE CALLBACK FOR THE PLOT
+
+# THIS IS THE CALLBACK FOR THE PLOT
 @app.callback(
     Output('graph', 'figure'),
     Input('year', 'value'),
@@ -215,6 +220,29 @@ def create_graph(year, homeTeam, pathname):
             size = 7    
     ))
     return DATA
+
+#THIS IS THE CALLBACK FOR THE PIE CHART
+@app.callback(
+    Output('pie', 'figure'),
+    Input('year', 'value'),
+    Input('homeTeam', 'value')
+)
+## creating the pie chart
+
+def pie_chart(year,homeTeam):
+    Data = TV
+    if year is not None:
+        Data = Data[Data['year'] == year] 
+    if homeTeam is not None:
+        Data=Data[Data['Home Team'] == homeTeam]       
+    fig2 = px.pie(Data, values=('VIEWERS'), names='Network', color='Network',
+        color_discrete_map={'ABC':'grey',
+                            'CBS':'royalblue',
+                            'ESPN':'red',
+                            'ESPN2':'cyan',
+                            'ESPNU':'yellow',
+                        "ESPNews":'purple' })
+    return fig2
 
 
 
