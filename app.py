@@ -11,6 +11,8 @@ from dash.dependencies import Input, Output
 import pandas as pd
 from datetime import date, datetime
 
+#GAMES = pd.read_csv(r'C:\Users\kevin\OneDrive\Documents\BZAN_544_Decision_Support\f_project\544FinalProject\games_flat_xml_2012-2018.csv') 
+#TV = pd.read_csv(r'C:\Users\kevin\OneDrive\Documents\BZAN_544_Decision_Support\f_project\544FinalProject\TV_Ratings_onesheet.csv')  
 GAMES = pd.read_csv('games_flat_xml_2012-2018.csv')
 gcolumnsWeWant = ['homename','visname','date','attend']
 GAMES = GAMES[gcolumnsWeWant]
@@ -205,15 +207,15 @@ def create_graph(year, homeTeam, pathname):
         mode = "markers",
         x=X,
         y=Y,
-        hovertext= Y,
+        hovertemplate= ' %{y} <br> Date: %{x} ',
         name=homeTeam,
         marker=dict(
             color='rgb(255,130,0)',
             opacity=.6,
             size = 7    
     ))
-    
     return DATA
+
 
 
 ### creating the table
