@@ -140,11 +140,12 @@ def render_page_content(pathname):
 @app.callback(
     Output("Table", "children"),
     Input("homeTeam", 'value'),
-    [Input("url", "pathname")]
+    [Input("url", "pathname")],
+    Input('year', 'value')
 )
-def update_table(value,pathname):
+def update_table(value,pathname,year):
     #create the table
-    tableChildren = create_table(value, pathname)
+    tableChildren = create_table(value, pathname,year)
     return tableChildren
 
 
@@ -156,11 +157,7 @@ def update_table(value,pathname):
     [Input("url", "pathname")]
 )
 def update_graph(year, homeTeam, pathname):
-    print("Year:",year)
-    print("HT:",homeTeam)
-    print("pn:", pathname)
-    
-    #creat the graph
+    #create the graph
     data = create_graph(year,homeTeam, pathname)
     
     title = "{homeTeam} {y}".format(homeTeam = 'All teams' if homeTeam is None else homeTeam, y = 'Attendance' if pathname == '/' else 'Viewership')
@@ -247,7 +244,7 @@ def pie_chart(year,homeTeam):
 
 
 ### creating the table
-def create_table(homeTeam, pathname):
+def create_table(homeTeam, pathname, year):
     if pathname == '/':
         if homeTeam is not None:
             DATA = GAMES[GAMES.homename == homeTeam]
@@ -260,6 +257,10 @@ def create_table(homeTeam, pathname):
             DATA = TV
     else:
         print('ERROR CREATING TABLE')
+        
+    #Subset year
+    if year is not None:
+        DATA = DATA[DATA['year'] == year]
         
     tableChildren = [
             html.Thead([
