@@ -191,8 +191,9 @@ def update_graph(year, homeTeam, pathname):
     [Input("url", "pathname")]
 )
 def change_img(value, pathname):
-    imagePath = getImage(value)
-    return html.Img(src=Image.open(imagePath),style={'width': '10%'})
+    if value is not None:
+        imagePath = getImage(value)
+        return html.Img(src=Image.open(imagePath),style={'width': '10%'})
 
 ### creating the graph
 def create_graph(year, homeTeam, pathname):
@@ -268,8 +269,9 @@ def pie_chart(year,homeTeam):
 
 #Get image path
 def getImage(homeTeam):
-    val=TV_ims.loc[TV_ims['team'] == homeTeam,['path']].values[0]
-    return val[0]
+    if homeTeam is not None:
+        val=TV_ims.loc[TV_ims['team'] == homeTeam,['path']].values[0]
+        return val[0]
 
 
 ### creating the table
