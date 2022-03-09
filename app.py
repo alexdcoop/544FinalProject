@@ -114,13 +114,17 @@ def render_page_content(pathname):
             html.H4("Home Team"),
             #Home team dropdown
             dcc.Dropdown(id='homeTeam', placeholder="Select Home Team" ,options=gamesUHomeDict),
+            html.Br(),
             #Year dropdown
             html.H4('Year'),
             dcc.RadioItems(id='year',options=gDict),
+            html.Br(),
             #LOGO
             html.Div(id='stuff'),
             #GRAPH
             dcc.Graph(id='graph'),
+            html.Br(),
+            html.Br(),
             #TABLE
             html.Table(id='Table',children = [],className='table table-striped')]
                 
@@ -130,14 +134,17 @@ def render_page_content(pathname):
             #Home team dropdown
             html.H4("Home Team"),
             dcc.Dropdown(id='homeTeam', placeholder="Select Home Team" ,options=TVUHomeDict),
+            html.Br(),
             #Year dropdown
             html.H4('Year'),
             dcc.RadioItems(id='year',options=tvDict),
+            html.Br(),
             #LOGO
             html.Div(id='stuff'),
             #GRAPH
             dcc.Graph(id='graph'),
-
+            html.Br(),
+            html.Br(),
             #PIE CHART FOR NETWORK AND TITLE
             html.Div([html.H4('Network Share',style={'textAlign': 'center'}),dcc.Graph(id='pie')]),
             
