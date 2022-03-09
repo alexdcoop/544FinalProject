@@ -10,6 +10,10 @@ import plotly.express as px
 from dash.dependencies import Input, Output
 import pandas as pd
 from datetime import date, datetime
+from pictures import TV_ims
+from PIL import Image
+
+
 
 #GAMES = pd.read_csv(r'C:\Users\kevin\OneDrive\Documents\BZAN_544_Decision_Support\f_project\544FinalProject\games_flat_xml_2012-2018.csv') 
 #TV = pd.read_csv(r'C:\Users\kevin\OneDrive\Documents\BZAN_544_Decision_Support\f_project\544FinalProject\TV_Ratings_onesheet.csv')  
@@ -113,6 +117,8 @@ def render_page_content(pathname):
             #Year dropdown
             html.H4('Year'),
             dcc.RadioItems(id='year',options=gDict),
+            #LOGO
+            html.Div(id='stuff'),
             #GRAPH
             dcc.Graph(id='graph'),
             #TABLE
@@ -127,6 +133,8 @@ def render_page_content(pathname):
             #Year dropdown
             html.H4('Year'),
             dcc.RadioItems(id='year',options=tvDict),
+            #LOGO
+            html.Div(id='stuff'),
             #GRAPH
             dcc.Graph(id='graph'),
 
@@ -168,6 +176,16 @@ def update_graph(year, homeTeam, pathname):
     })
     
     return fig
+
+### THIS IS THE CALLBACK FOR IMAGE
+@app.callback(
+    Output('stuff', 'children'),
+    Input('homeTeam', 'value'),
+    [Input("url", "pathname")]
+)
+def change_img(value, pathname):
+    imagePath = getImage(value)
+    return html.Img(src=Image.open(imagePath),style={'width': '10%'})
 
 ### creating the graph
 def create_graph(year, homeTeam, pathname):
@@ -241,6 +259,10 @@ def pie_chart(year,homeTeam):
                         "ESPNews":'purple' })
     return fig2
 
+#Get image path
+def getImage(homeTeam):
+    val=TV_ims.loc[TV_ims['team'] == homeTeam,['path']].values[0]
+    return val[0]
 
 
 ### creating the table
